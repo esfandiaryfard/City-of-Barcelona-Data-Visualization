@@ -1,0 +1,2601 @@
+Codi_Districte,Nom_Districte,Concepte,Rang_soroll,Valor
+1,Ciutat Vella,TOTAL_D,<40 dB,5.60%
+1,Ciutat Vella,TOTAL_D,40-45 dB,21.83%
+1,Ciutat Vella,TOTAL_D,45-50 dB,12.66%
+1,Ciutat Vella,TOTAL_D,50-55 dB,15.26%
+1,Ciutat Vella,TOTAL_D,55-60 dB,20.28%
+1,Ciutat Vella,TOTAL_D,60-65 dB,16.81%
+1,Ciutat Vella,TOTAL_D,65-70 dB,5.30%
+1,Ciutat Vella,TOTAL_D,70-75 dB,2.20%
+1,Ciutat Vella,TOTAL_D,75-80 dB,0.06%
+1,Ciutat Vella,TOTAL_D,>=80 dB,0.00%
+2,Eixample,TOTAL_D,<40 dB,0.12%
+2,Eixample,TOTAL_D,40-45 dB,4.44%
+2,Eixample,TOTAL_D,45-50 dB,30.09%
+2,Eixample,TOTAL_D,50-55 dB,2.38%
+2,Eixample,TOTAL_D,55-60 dB,7.65%
+2,Eixample,TOTAL_D,60-65 dB,9.60%
+2,Eixample,TOTAL_D,65-70 dB,26.42%
+2,Eixample,TOTAL_D,70-75 dB,18.34%
+2,Eixample,TOTAL_D,75-80 dB,0.96%
+2,Eixample,TOTAL_D,>=80 dB,0.00%
+3,Sants-Montjuïc,TOTAL_D,<40 dB,6.46%
+3,Sants-Montjuïc,TOTAL_D,40-45 dB,18.73%
+3,Sants-Montjuïc,TOTAL_D,45-50 dB,12.19%
+3,Sants-Montjuïc,TOTAL_D,50-55 dB,10.82%
+3,Sants-Montjuïc,TOTAL_D,55-60 dB,15.74%
+3,Sants-Montjuïc,TOTAL_D,60-65 dB,18.67%
+3,Sants-Montjuïc,TOTAL_D,65-70 dB,12.13%
+3,Sants-Montjuïc,TOTAL_D,70-75 dB,5.26%
+3,Sants-Montjuïc,TOTAL_D,75-80 dB,0.00%
+3,Sants-Montjuïc,TOTAL_D,>=80 dB,0.00%
+4,Les Corts,TOTAL_D,<40 dB,0.35%
+4,Les Corts,TOTAL_D,40-45 dB,15.90%
+4,Les Corts,TOTAL_D,45-50 dB,11.89%
+4,Les Corts,TOTAL_D,50-55 dB,8.73%
+4,Les Corts,TOTAL_D,55-60 dB,17.98%
+4,Les Corts,TOTAL_D,60-65 dB,21.95%
+4,Les Corts,TOTAL_D,65-70 dB,13.68%
+4,Les Corts,TOTAL_D,70-75 dB,9.52%
+4,Les Corts,TOTAL_D,75-80 dB,0.00%
+4,Les Corts,TOTAL_D,>=80 dB,0.00%
+5,Sarrià-Sant Gervasi,TOTAL_D,<40 dB,1.64%
+5,Sarrià-Sant Gervasi,TOTAL_D,40-45 dB,12.69%
+5,Sarrià-Sant Gervasi,TOTAL_D,45-50 dB,17.07%
+5,Sarrià-Sant Gervasi,TOTAL_D,50-55 dB,12.33%
+5,Sarrià-Sant Gervasi,TOTAL_D,55-60 dB,18.28%
+5,Sarrià-Sant Gervasi,TOTAL_D,60-65 dB,16.28%
+5,Sarrià-Sant Gervasi,TOTAL_D,65-70 dB,10.48%
+5,Sarrià-Sant Gervasi,TOTAL_D,70-75 dB,10.88%
+5,Sarrià-Sant Gervasi,TOTAL_D,75-80 dB,0.35%
+5,Sarrià-Sant Gervasi,TOTAL_D,>=80 dB,0.00%
+6,Gràcia,TOTAL_D,<40 dB,2.07%
+6,Gràcia,TOTAL_D,40-45 dB,17.42%
+6,Gràcia,TOTAL_D,45-50 dB,13.62%
+6,Gràcia,TOTAL_D,50-55 dB,9.85%
+6,Gràcia,TOTAL_D,55-60 dB,16.44%
+6,Gràcia,TOTAL_D,60-65 dB,15.39%
+6,Gràcia,TOTAL_D,65-70 dB,17.01%
+6,Gràcia,TOTAL_D,70-75 dB,7.68%
+6,Gràcia,TOTAL_D,75-80 dB,0.52%
+6,Gràcia,TOTAL_D,>=80 dB,0.00%
+7,Horta-Guinardó,TOTAL_D,<40 dB,4.43%
+7,Horta-Guinardó,TOTAL_D,40-45 dB,21.47%
+7,Horta-Guinardó,TOTAL_D,45-50 dB,13.42%
+7,Horta-Guinardó,TOTAL_D,50-55 dB,12.09%
+7,Horta-Guinardó,TOTAL_D,55-60 dB,17.28%
+7,Horta-Guinardó,TOTAL_D,60-65 dB,14.24%
+7,Horta-Guinardó,TOTAL_D,65-70 dB,12.31%
+7,Horta-Guinardó,TOTAL_D,70-75 dB,4.65%
+7,Horta-Guinardó,TOTAL_D,75-80 dB,0.11%
+7,Horta-Guinardó,TOTAL_D,>=80 dB,0.00%
+8,Nou Barris,TOTAL_D,<40 dB,3.82%
+8,Nou Barris,TOTAL_D,40-45 dB,17.79%
+8,Nou Barris,TOTAL_D,45-50 dB,13.91%
+8,Nou Barris,TOTAL_D,50-55 dB,14.25%
+8,Nou Barris,TOTAL_D,55-60 dB,22.31%
+8,Nou Barris,TOTAL_D,60-65 dB,15.35%
+8,Nou Barris,TOTAL_D,65-70 dB,9.90%
+8,Nou Barris,TOTAL_D,70-75 dB,2.61%
+8,Nou Barris,TOTAL_D,75-80 dB,0.06%
+8,Nou Barris,TOTAL_D,>=80 dB,0.00%
+9,Sant Andreu,TOTAL_D,<40 dB,2.06%
+9,Sant Andreu,TOTAL_D,40-45 dB,14.21%
+9,Sant Andreu,TOTAL_D,45-50 dB,13.67%
+9,Sant Andreu,TOTAL_D,50-55 dB,11.36%
+9,Sant Andreu,TOTAL_D,55-60 dB,19.81%
+9,Sant Andreu,TOTAL_D,60-65 dB,18.17%
+9,Sant Andreu,TOTAL_D,65-70 dB,14.77%
+9,Sant Andreu,TOTAL_D,70-75 dB,5.95%
+9,Sant Andreu,TOTAL_D,75-80 dB,0.00%
+9,Sant Andreu,TOTAL_D,>=80 dB,0.00%
+10,Sant Martí,TOTAL_D,<40 dB,0.95%
+10,Sant Martí,TOTAL_D,40-45 dB,11.40%
+10,Sant Martí,TOTAL_D,45-50 dB,13.81%
+10,Sant Martí,TOTAL_D,50-55 dB,13.05%
+10,Sant Martí,TOTAL_D,55-60 dB,20.95%
+10,Sant Martí,TOTAL_D,60-65 dB,20.27%
+10,Sant Martí,TOTAL_D,65-70 dB,13.72%
+10,Sant Martí,TOTAL_D,70-75 dB,5.81%
+10,Sant Martí,TOTAL_D,75-80 dB,0.04%
+10,Sant Martí,TOTAL_D,>=80 dB,0.00%
+1,Ciutat Vella,TOTAL_E,<40 dB,15.34%
+1,Ciutat Vella,TOTAL_E,40-45 dB,17.78%
+1,Ciutat Vella,TOTAL_E,45-50 dB,11.68%
+1,Ciutat Vella,TOTAL_E,50-55 dB,16.54%
+1,Ciutat Vella,TOTAL_E,55-60 dB,20.13%
+1,Ciutat Vella,TOTAL_E,60-65 dB,12.81%
+1,Ciutat Vella,TOTAL_E,65-70 dB,4.79%
+1,Ciutat Vella,TOTAL_E,70-75 dB,0.93%
+1,Ciutat Vella,TOTAL_E,75-80 dB,0.00%
+1,Ciutat Vella,TOTAL_E,>=80 dB,0.00%
+2,Eixample,TOTAL_E,<40 dB,0.14%
+2,Eixample,TOTAL_E,40-45 dB,17.44%
+2,Eixample,TOTAL_E,45-50 dB,21.78%
+2,Eixample,TOTAL_E,50-55 dB,1.30%
+2,Eixample,TOTAL_E,55-60 dB,6.10%
+2,Eixample,TOTAL_E,60-65 dB,13.12%
+2,Eixample,TOTAL_E,65-70 dB,30.77%
+2,Eixample,TOTAL_E,70-75 dB,9.34%
+2,Eixample,TOTAL_E,75-80 dB,0.01%
+2,Eixample,TOTAL_E,>=80 dB,0.00%
+3,Sants-Montjuïc,TOTAL_E,<40 dB,14.58%
+3,Sants-Montjuïc,TOTAL_E,40-45 dB,19.43%
+3,Sants-Montjuïc,TOTAL_E,45-50 dB,9.01%
+3,Sants-Montjuïc,TOTAL_E,50-55 dB,9.32%
+3,Sants-Montjuïc,TOTAL_E,55-60 dB,18.26%
+3,Sants-Montjuïc,TOTAL_E,60-65 dB,15.97%
+3,Sants-Montjuïc,TOTAL_E,65-70 dB,10.85%
+3,Sants-Montjuïc,TOTAL_E,70-75 dB,2.58%
+3,Sants-Montjuïc,TOTAL_E,75-80 dB,0.00%
+3,Sants-Montjuïc,TOTAL_E,>=80 dB,0.00%
+4,Les Corts,TOTAL_E,<40 dB,1.49%
+4,Les Corts,TOTAL_E,40-45 dB,22.69%
+4,Les Corts,TOTAL_E,45-50 dB,7.98%
+4,Les Corts,TOTAL_E,50-55 dB,10.61%
+4,Les Corts,TOTAL_E,55-60 dB,19.94%
+4,Les Corts,TOTAL_E,60-65 dB,19.38%
+4,Les Corts,TOTAL_E,65-70 dB,15.39%
+4,Les Corts,TOTAL_E,70-75 dB,2.52%
+4,Les Corts,TOTAL_E,75-80 dB,0.00%
+4,Les Corts,TOTAL_E,>=80 dB,0.00%
+5,Sarrià-Sant Gervasi,TOTAL_E,<40 dB,3.72%
+5,Sarrià-Sant Gervasi,TOTAL_E,40-45 dB,22.32%
+5,Sarrià-Sant Gervasi,TOTAL_E,45-50 dB,12.89%
+5,Sarrià-Sant Gervasi,TOTAL_E,50-55 dB,11.85%
+5,Sarrià-Sant Gervasi,TOTAL_E,55-60 dB,16.66%
+5,Sarrià-Sant Gervasi,TOTAL_E,60-65 dB,15.18%
+5,Sarrià-Sant Gervasi,TOTAL_E,65-70 dB,11.03%
+5,Sarrià-Sant Gervasi,TOTAL_E,70-75 dB,6.35%
+5,Sarrià-Sant Gervasi,TOTAL_E,75-80 dB,0.00%
+5,Sarrià-Sant Gervasi,TOTAL_E,>=80 dB,0.00%
+6,Gràcia,TOTAL_E,<40 dB,7.30%
+6,Gràcia,TOTAL_E,40-45 dB,22.14%
+6,Gràcia,TOTAL_E,45-50 dB,10.49%
+6,Gràcia,TOTAL_E,50-55 dB,9.55%
+6,Gràcia,TOTAL_E,55-60 dB,13.87%
+6,Gràcia,TOTAL_E,60-65 dB,16.95%
+6,Gràcia,TOTAL_E,65-70 dB,15.08%
+6,Gràcia,TOTAL_E,70-75 dB,4.62%
+6,Gràcia,TOTAL_E,75-80 dB,0.00%
+6,Gràcia,TOTAL_E,>=80 dB,0.00%
+7,Horta-Guinardó,TOTAL_E,<40 dB,10.80%
+7,Horta-Guinardó,TOTAL_E,40-45 dB,23.34%
+7,Horta-Guinardó,TOTAL_E,45-50 dB,10.68%
+7,Horta-Guinardó,TOTAL_E,50-55 dB,11.95%
+7,Horta-Guinardó,TOTAL_E,55-60 dB,17.26%
+7,Horta-Guinardó,TOTAL_E,60-65 dB,13.99%
+7,Horta-Guinardó,TOTAL_E,65-70 dB,10.43%
+7,Horta-Guinardó,TOTAL_E,70-75 dB,1.55%
+7,Horta-Guinardó,TOTAL_E,75-80 dB,0.00%
+7,Horta-Guinardó,TOTAL_E,>=80 dB,0.00%
+8,Nou Barris,TOTAL_E,<40 dB,9.67%
+8,Nou Barris,TOTAL_E,40-45 dB,19.41%
+8,Nou Barris,TOTAL_E,45-50 dB,11.91%
+8,Nou Barris,TOTAL_E,50-55 dB,17.72%
+8,Nou Barris,TOTAL_E,55-60 dB,19.27%
+8,Nou Barris,TOTAL_E,60-65 dB,13.07%
+8,Nou Barris,TOTAL_E,65-70 dB,7.84%
+8,Nou Barris,TOTAL_E,70-75 dB,1.09%
+8,Nou Barris,TOTAL_E,75-80 dB,0.02%
+8,Nou Barris,TOTAL_E,>=80 dB,0.00%
+9,Sant Andreu,TOTAL_E,<40 dB,6.64%
+9,Sant Andreu,TOTAL_E,40-45 dB,19.01%
+9,Sant Andreu,TOTAL_E,45-50 dB,11.16%
+9,Sant Andreu,TOTAL_E,50-55 dB,11.59%
+9,Sant Andreu,TOTAL_E,55-60 dB,18.70%
+9,Sant Andreu,TOTAL_E,60-65 dB,16.90%
+9,Sant Andreu,TOTAL_E,65-70 dB,13.41%
+9,Sant Andreu,TOTAL_E,70-75 dB,2.59%
+9,Sant Andreu,TOTAL_E,75-80 dB,0.00%
+9,Sant Andreu,TOTAL_E,>=80 dB,0.00%
+10,Sant Martí,TOTAL_E,<40 dB,3.16%
+10,Sant Martí,TOTAL_E,40-45 dB,17.15%
+10,Sant Martí,TOTAL_E,45-50 dB,12.81%
+10,Sant Martí,TOTAL_E,50-55 dB,13.02%
+10,Sant Martí,TOTAL_E,55-60 dB,20.47%
+10,Sant Martí,TOTAL_E,60-65 dB,18.78%
+10,Sant Martí,TOTAL_E,65-70 dB,11.73%
+10,Sant Martí,TOTAL_E,70-75 dB,2.88%
+10,Sant Martí,TOTAL_E,75-80 dB,0.00%
+10,Sant Martí,TOTAL_E,>=80 dB,0.00%
+1,Ciutat Vella,TOTAL_N,<40 dB,40.15%
+1,Ciutat Vella,TOTAL_N,40-45 dB,9.38%
+1,Ciutat Vella,TOTAL_N,45-50 dB,13.04%
+1,Ciutat Vella,TOTAL_N,50-55 dB,15.36%
+1,Ciutat Vella,TOTAL_N,55-60 dB,9.64%
+1,Ciutat Vella,TOTAL_N,60-65 dB,10.32%
+1,Ciutat Vella,TOTAL_N,65-70 dB,2.11%
+1,Ciutat Vella,TOTAL_N,70-75 dB,0.00%
+1,Ciutat Vella,TOTAL_N,75-80 dB,0.00%
+1,Ciutat Vella,TOTAL_N,>=80 dB,0.00%
+2,Eixample,TOTAL_N,<40 dB,22.10%
+2,Eixample,TOTAL_N,40-45 dB,22.41%
+2,Eixample,TOTAL_N,45-50 dB,1.35%
+2,Eixample,TOTAL_N,50-55 dB,3.32%
+2,Eixample,TOTAL_N,55-60 dB,11.31%
+2,Eixample,TOTAL_N,60-65 dB,29.82%
+2,Eixample,TOTAL_N,65-70 dB,9.69%
+2,Eixample,TOTAL_N,70-75 dB,0.00%
+2,Eixample,TOTAL_N,75-80 dB,0.00%
+2,Eixample,TOTAL_N,>=80 dB,0.00%
+3,Sants-Montjuïc,TOTAL_N,<40 dB,36.78%
+3,Sants-Montjuïc,TOTAL_N,40-45 dB,8.79%
+3,Sants-Montjuïc,TOTAL_N,45-50 dB,9.28%
+3,Sants-Montjuïc,TOTAL_N,50-55 dB,16.87%
+3,Sants-Montjuïc,TOTAL_N,55-60 dB,13.70%
+3,Sants-Montjuïc,TOTAL_N,60-65 dB,12.24%
+3,Sants-Montjuïc,TOTAL_N,65-70 dB,2.34%
+3,Sants-Montjuïc,TOTAL_N,70-75 dB,0.00%
+3,Sants-Montjuïc,TOTAL_N,75-80 dB,0.00%
+3,Sants-Montjuïc,TOTAL_N,>=80 dB,0.00%
+4,Les Corts,TOTAL_N,<40 dB,25.30%
+4,Les Corts,TOTAL_N,40-45 dB,8.26%
+4,Les Corts,TOTAL_N,45-50 dB,10.54%
+4,Les Corts,TOTAL_N,50-55 dB,19.50%
+4,Les Corts,TOTAL_N,55-60 dB,18.95%
+4,Les Corts,TOTAL_N,60-65 dB,15.45%
+4,Les Corts,TOTAL_N,65-70 dB,2.00%
+4,Les Corts,TOTAL_N,70-75 dB,0.00%
+4,Les Corts,TOTAL_N,75-80 dB,0.00%
+4,Les Corts,TOTAL_N,>=80 dB,0.00%
+5,Sarrià-Sant Gervasi,TOTAL_N,<40 dB,28.66%
+5,Sarrià-Sant Gervasi,TOTAL_N,40-45 dB,13.56%
+5,Sarrià-Sant Gervasi,TOTAL_N,45-50 dB,11.73%
+5,Sarrià-Sant Gervasi,TOTAL_N,50-55 dB,13.89%
+5,Sarrià-Sant Gervasi,TOTAL_N,55-60 dB,14.08%
+5,Sarrià-Sant Gervasi,TOTAL_N,60-65 dB,11.47%
+5,Sarrià-Sant Gervasi,TOTAL_N,65-70 dB,6.61%
+5,Sarrià-Sant Gervasi,TOTAL_N,70-75 dB,0.00%
+5,Sarrià-Sant Gervasi,TOTAL_N,75-80 dB,0.00%
+5,Sarrià-Sant Gervasi,TOTAL_N,>=80 dB,0.00%
+6,Gràcia,TOTAL_N,<40 dB,33.23%
+6,Gràcia,TOTAL_N,40-45 dB,10.70%
+6,Gràcia,TOTAL_N,45-50 dB,9.33%
+6,Gràcia,TOTAL_N,50-55 dB,11.07%
+6,Gràcia,TOTAL_N,55-60 dB,15.55%
+6,Gràcia,TOTAL_N,60-65 dB,15.45%
+6,Gràcia,TOTAL_N,65-70 dB,4.67%
+6,Gràcia,TOTAL_N,70-75 dB,0.00%
+6,Gràcia,TOTAL_N,75-80 dB,0.00%
+6,Gràcia,TOTAL_N,>=80 dB,0.00%
+7,Horta-Guinardó,TOTAL_N,<40 dB,36.37%
+7,Horta-Guinardó,TOTAL_N,40-45 dB,10.12%
+7,Horta-Guinardó,TOTAL_N,45-50 dB,12.07%
+7,Horta-Guinardó,TOTAL_N,50-55 dB,16.25%
+7,Horta-Guinardó,TOTAL_N,55-60 dB,13.69%
+7,Horta-Guinardó,TOTAL_N,60-65 dB,10.20%
+7,Horta-Guinardó,TOTAL_N,65-70 dB,1.30%
+7,Horta-Guinardó,TOTAL_N,70-75 dB,0.00%
+7,Horta-Guinardó,TOTAL_N,75-80 dB,0.00%
+7,Horta-Guinardó,TOTAL_N,>=80 dB,0.00%
+8,Nou Barris,TOTAL_N,<40 dB,30.72%
+8,Nou Barris,TOTAL_N,40-45 dB,12.00%
+8,Nou Barris,TOTAL_N,45-50 dB,18.13%
+8,Nou Barris,TOTAL_N,50-55 dB,18.39%
+8,Nou Barris,TOTAL_N,55-60 dB,12.07%
+8,Nou Barris,TOTAL_N,60-65 dB,7.64%
+8,Nou Barris,TOTAL_N,65-70 dB,1.03%
+8,Nou Barris,TOTAL_N,70-75 dB,0.02%
+8,Nou Barris,TOTAL_N,75-80 dB,0.00%
+8,Nou Barris,TOTAL_N,>=80 dB,0.00%
+9,Sant Andreu,TOTAL_N,<40 dB,28.86%
+9,Sant Andreu,TOTAL_N,40-45 dB,12.07%
+9,Sant Andreu,TOTAL_N,45-50 dB,12.11%
+9,Sant Andreu,TOTAL_N,50-55 dB,16.61%
+9,Sant Andreu,TOTAL_N,55-60 dB,14.98%
+9,Sant Andreu,TOTAL_N,60-65 dB,13.30%
+9,Sant Andreu,TOTAL_N,65-70 dB,2.07%
+9,Sant Andreu,TOTAL_N,70-75 dB,0.00%
+9,Sant Andreu,TOTAL_N,75-80 dB,0.00%
+9,Sant Andreu,TOTAL_N,>=80 dB,0.00%
+10,Sant Martí,TOTAL_N,<40 dB,23.22%
+10,Sant Martí,TOTAL_N,40-45 dB,13.44%
+10,Sant Martí,TOTAL_N,45-50 dB,13.32%
+10,Sant Martí,TOTAL_N,50-55 dB,18.34%
+10,Sant Martí,TOTAL_N,55-60 dB,17.39%
+10,Sant Martí,TOTAL_N,60-65 dB,11.71%
+10,Sant Martí,TOTAL_N,65-70 dB,2.58%
+10,Sant Martí,TOTAL_N,70-75 dB,0.00%
+10,Sant Martí,TOTAL_N,75-80 dB,0.00%
+10,Sant Martí,TOTAL_N,>=80 dB,0.00%
+1,Ciutat Vella,TOTAL_DEN,<40 dB,0.54%
+1,Ciutat Vella,TOTAL_DEN,40-45 dB,21.23%
+1,Ciutat Vella,TOTAL_DEN,45-50 dB,15.19%
+1,Ciutat Vella,TOTAL_DEN,50-55 dB,11.76%
+1,Ciutat Vella,TOTAL_DEN,55-60 dB,17.71%
+1,Ciutat Vella,TOTAL_DEN,60-65 dB,16.81%
+1,Ciutat Vella,TOTAL_DEN,65-70 dB,11.71%
+1,Ciutat Vella,TOTAL_DEN,70-75 dB,4.67%
+1,Ciutat Vella,TOTAL_DEN,75-80 dB,0.38%
+1,Ciutat Vella,TOTAL_DEN,>=80 dB,0.00%
+2,Eixample,TOTAL_DEN,<40 dB,0.12%
+2,Eixample,TOTAL_DEN,40-45 dB,0.32%
+2,Eixample,TOTAL_DEN,45-50 dB,29.15%
+2,Eixample,TOTAL_DEN,50-55 dB,9.04%
+2,Eixample,TOTAL_DEN,55-60 dB,5.66%
+2,Eixample,TOTAL_DEN,60-65 dB,7.33%
+2,Eixample,TOTAL_DEN,65-70 dB,17.69%
+2,Eixample,TOTAL_DEN,70-75 dB,27.15%
+2,Eixample,TOTAL_DEN,75-80 dB,3.54%
+2,Eixample,TOTAL_DEN,>=80 dB,0.00%
+3,Sants-Montjuïc,TOTAL_DEN,<40 dB,1.07%
+3,Sants-Montjuïc,TOTAL_DEN,40-45 dB,18.63%
+3,Sants-Montjuïc,TOTAL_DEN,45-50 dB,14.94%
+3,Sants-Montjuïc,TOTAL_DEN,50-55 dB,10.70%
+3,Sants-Montjuïc,TOTAL_DEN,55-60 dB,12.59%
+3,Sants-Montjuïc,TOTAL_DEN,60-65 dB,19.41%
+3,Sants-Montjuïc,TOTAL_DEN,65-70 dB,13.97%
+3,Sants-Montjuïc,TOTAL_DEN,70-75 dB,7.80%
+3,Sants-Montjuïc,TOTAL_DEN,75-80 dB,0.89%
+3,Sants-Montjuïc,TOTAL_DEN,>=80 dB,0.00%
+4,Les Corts,TOTAL_DEN,<40 dB,0.15%
+4,Les Corts,TOTAL_DEN,40-45 dB,7.44%
+4,Les Corts,TOTAL_DEN,45-50 dB,18.26%
+4,Les Corts,TOTAL_DEN,50-55 dB,8.41%
+4,Les Corts,TOTAL_DEN,55-60 dB,13.88%
+4,Les Corts,TOTAL_DEN,60-65 dB,23.29%
+4,Les Corts,TOTAL_DEN,65-70 dB,15.87%
+4,Les Corts,TOTAL_DEN,70-75 dB,11.98%
+4,Les Corts,TOTAL_DEN,75-80 dB,0.72%
+4,Les Corts,TOTAL_DEN,>=80 dB,0.00%
+5,Sarrià-Sant Gervasi,TOTAL_DEN,<40 dB,0.94%
+5,Sarrià-Sant Gervasi,TOTAL_DEN,40-45 dB,7.13%
+5,Sarrià-Sant Gervasi,TOTAL_DEN,45-50 dB,19.93%
+5,Sarrià-Sant Gervasi,TOTAL_DEN,50-55 dB,13.67%
+5,Sarrià-Sant Gervasi,TOTAL_DEN,55-60 dB,15.10%
+5,Sarrià-Sant Gervasi,TOTAL_DEN,60-65 dB,16.24%
+5,Sarrià-Sant Gervasi,TOTAL_DEN,65-70 dB,12.37%
+5,Sarrià-Sant Gervasi,TOTAL_DEN,70-75 dB,12.52%
+5,Sarrià-Sant Gervasi,TOTAL_DEN,75-80 dB,2.10%
+5,Sarrià-Sant Gervasi,TOTAL_DEN,>=80 dB,0.00%
+6,Gràcia,TOTAL_DEN,<40 dB,0.58%
+6,Gràcia,TOTAL_DEN,40-45 dB,12.27%
+6,Gràcia,TOTAL_DEN,45-50 dB,18.09%
+6,Gràcia,TOTAL_DEN,50-55 dB,10.91%
+6,Gràcia,TOTAL_DEN,55-60 dB,12.61%
+6,Gràcia,TOTAL_DEN,60-65 dB,14.81%
+6,Gràcia,TOTAL_DEN,65-70 dB,17.75%
+6,Gràcia,TOTAL_DEN,70-75 dB,11.35%
+6,Gràcia,TOTAL_DEN,75-80 dB,1.63%
+6,Gràcia,TOTAL_DEN,>=80 dB,0.00%
+7,Horta-Guinardó,TOTAL_DEN,<40 dB,2.15%
+7,Horta-Guinardó,TOTAL_DEN,40-45 dB,16.75%
+7,Horta-Guinardó,TOTAL_DEN,45-50 dB,17.58%
+7,Horta-Guinardó,TOTAL_DEN,50-55 dB,11.73%
+7,Horta-Guinardó,TOTAL_DEN,55-60 dB,15.22%
+7,Horta-Guinardó,TOTAL_DEN,60-65 dB,15.43%
+7,Horta-Guinardó,TOTAL_DEN,65-70 dB,13.22%
+7,Horta-Guinardó,TOTAL_DEN,70-75 dB,7.59%
+7,Horta-Guinardó,TOTAL_DEN,75-80 dB,0.33%
+7,Horta-Guinardó,TOTAL_DEN,>=80 dB,0.00%
+8,Nou Barris,TOTAL_DEN,<40 dB,1.88%
+8,Nou Barris,TOTAL_DEN,40-45 dB,13.20%
+8,Nou Barris,TOTAL_DEN,45-50 dB,16.93%
+8,Nou Barris,TOTAL_DEN,50-55 dB,12.82%
+8,Nou Barris,TOTAL_DEN,55-60 dB,21.46%
+8,Nou Barris,TOTAL_DEN,60-65 dB,17.18%
+8,Nou Barris,TOTAL_DEN,65-70 dB,10.69%
+8,Nou Barris,TOTAL_DEN,70-75 dB,5.60%
+8,Nou Barris,TOTAL_DEN,75-80 dB,0.24%
+8,Nou Barris,TOTAL_DEN,>=80 dB,0.00%
+9,Sant Andreu,TOTAL_DEN,<40 dB,0.61%
+9,Sant Andreu,TOTAL_DEN,40-45 dB,9.96%
+9,Sant Andreu,TOTAL_DEN,45-50 dB,16.23%
+9,Sant Andreu,TOTAL_DEN,50-55 dB,12.67%
+9,Sant Andreu,TOTAL_DEN,55-60 dB,16.50%
+9,Sant Andreu,TOTAL_DEN,60-65 dB,18.92%
+9,Sant Andreu,TOTAL_DEN,65-70 dB,14.81%
+9,Sant Andreu,TOTAL_DEN,70-75 dB,9.60%
+9,Sant Andreu,TOTAL_DEN,75-80 dB,0.70%
+9,Sant Andreu,TOTAL_DEN,>=80 dB,0.00%
+10,Sant Martí,TOTAL_DEN,<40 dB,0.43%
+10,Sant Martí,TOTAL_DEN,40-45 dB,6.77%
+10,Sant Martí,TOTAL_DEN,45-50 dB,15.87%
+10,Sant Martí,TOTAL_DEN,50-55 dB,13.61%
+10,Sant Martí,TOTAL_DEN,55-60 dB,17.90%
+10,Sant Martí,TOTAL_DEN,60-65 dB,19.94%
+10,Sant Martí,TOTAL_DEN,65-70 dB,15.66%
+10,Sant Martí,TOTAL_DEN,70-75 dB,8.92%
+10,Sant Martí,TOTAL_DEN,75-80 dB,0.90%
+10,Sant Martí,TOTAL_DEN,>=80 dB,0.00%
+1,Ciutat Vella,TRANSIT_D,<40 dB,11.32%
+1,Ciutat Vella,TRANSIT_D,40-45 dB,29.39%
+1,Ciutat Vella,TRANSIT_D,45-50 dB,9.42%
+1,Ciutat Vella,TRANSIT_D,50-55 dB,12.28%
+1,Ciutat Vella,TRANSIT_D,55-60 dB,17.88%
+1,Ciutat Vella,TRANSIT_D,60-65 dB,12.34%
+1,Ciutat Vella,TRANSIT_D,65-70 dB,5.11%
+1,Ciutat Vella,TRANSIT_D,70-75 dB,2.20%
+1,Ciutat Vella,TRANSIT_D,75-80 dB,0.06%
+1,Ciutat Vella,TRANSIT_D,>=80 dB,0.00%
+2,Eixample,TRANSIT_D,<40 dB,0.15%
+2,Eixample,TRANSIT_D,40-45 dB,6.11%
+2,Eixample,TRANSIT_D,45-50 dB,36.77%
+2,Eixample,TRANSIT_D,50-55 dB,2.23%
+2,Eixample,TRANSIT_D,55-60 dB,2.27%
+2,Eixample,TRANSIT_D,60-65 dB,6.87%
+2,Eixample,TRANSIT_D,65-70 dB,26.35%
+2,Eixample,TRANSIT_D,70-75 dB,18.30%
+2,Eixample,TRANSIT_D,75-80 dB,0.95%
+2,Eixample,TRANSIT_D,>=80 dB,0.00%
+3,Sants-Montjuïc,TRANSIT_D,<40 dB,7.50%
+3,Sants-Montjuïc,TRANSIT_D,40-45 dB,22.82%
+3,Sants-Montjuïc,TRANSIT_D,45-50 dB,13.22%
+3,Sants-Montjuïc,TRANSIT_D,50-55 dB,7.70%
+3,Sants-Montjuïc,TRANSIT_D,55-60 dB,14.27%
+3,Sants-Montjuïc,TRANSIT_D,60-65 dB,17.10%
+3,Sants-Montjuïc,TRANSIT_D,65-70 dB,12.13%
+3,Sants-Montjuïc,TRANSIT_D,70-75 dB,5.26%
+3,Sants-Montjuïc,TRANSIT_D,75-80 dB,0.00%
+3,Sants-Montjuïc,TRANSIT_D,>=80 dB,0.00%
+4,Les Corts,TRANSIT_D,<40 dB,0.36%
+4,Les Corts,TRANSIT_D,40-45 dB,16.95%
+4,Les Corts,TRANSIT_D,45-50 dB,13.43%
+4,Les Corts,TRANSIT_D,50-55 dB,8.73%
+4,Les Corts,TRANSIT_D,55-60 dB,16.16%
+4,Les Corts,TRANSIT_D,60-65 dB,21.19%
+4,Les Corts,TRANSIT_D,65-70 dB,13.66%
+4,Les Corts,TRANSIT_D,70-75 dB,9.52%
+4,Les Corts,TRANSIT_D,75-80 dB,0.00%
+4,Les Corts,TRANSIT_D,>=80 dB,0.00%
+5,Sarrià-Sant Gervasi,TRANSIT_D,<40 dB,1.79%
+5,Sarrià-Sant Gervasi,TRANSIT_D,40-45 dB,16.60%
+5,Sarrià-Sant Gervasi,TRANSIT_D,45-50 dB,21.03%
+5,Sarrià-Sant Gervasi,TRANSIT_D,50-55 dB,10.19%
+5,Sarrià-Sant Gervasi,TRANSIT_D,55-60 dB,14.28%
+5,Sarrià-Sant Gervasi,TRANSIT_D,60-65 dB,14.48%
+5,Sarrià-Sant Gervasi,TRANSIT_D,65-70 dB,10.41%
+5,Sarrià-Sant Gervasi,TRANSIT_D,70-75 dB,10.87%
+5,Sarrià-Sant Gervasi,TRANSIT_D,75-80 dB,0.35%
+5,Sarrià-Sant Gervasi,TRANSIT_D,>=80 dB,0.00%
+6,Gràcia,TRANSIT_D,<40 dB,2.82%
+6,Gràcia,TRANSIT_D,40-45 dB,21.26%
+6,Gràcia,TRANSIT_D,45-50 dB,17.88%
+6,Gràcia,TRANSIT_D,50-55 dB,8.45%
+6,Gràcia,TRANSIT_D,55-60 dB,11.89%
+6,Gràcia,TRANSIT_D,60-65 dB,12.52%
+6,Gràcia,TRANSIT_D,65-70 dB,16.98%
+6,Gràcia,TRANSIT_D,70-75 dB,7.68%
+6,Gràcia,TRANSIT_D,75-80 dB,0.52%
+6,Gràcia,TRANSIT_D,>=80 dB,0.00%
+7,Horta-Guinardó,TRANSIT_D,<40 dB,4.74%
+7,Horta-Guinardó,TRANSIT_D,40-45 dB,23.67%
+7,Horta-Guinardó,TRANSIT_D,45-50 dB,14.98%
+7,Horta-Guinardó,TRANSIT_D,50-55 dB,10.77%
+7,Horta-Guinardó,TRANSIT_D,55-60 dB,15.09%
+7,Horta-Guinardó,TRANSIT_D,60-65 dB,13.69%
+7,Horta-Guinardó,TRANSIT_D,65-70 dB,12.30%
+7,Horta-Guinardó,TRANSIT_D,70-75 dB,4.65%
+7,Horta-Guinardó,TRANSIT_D,75-80 dB,0.11%
+7,Horta-Guinardó,TRANSIT_D,>=80 dB,0.00%
+8,Nou Barris,TRANSIT_D,<40 dB,4.42%
+8,Nou Barris,TRANSIT_D,40-45 dB,19.37%
+8,Nou Barris,TRANSIT_D,45-50 dB,15.09%
+8,Nou Barris,TRANSIT_D,50-55 dB,13.78%
+8,Nou Barris,TRANSIT_D,55-60 dB,20.31%
+8,Nou Barris,TRANSIT_D,60-65 dB,14.49%
+8,Nou Barris,TRANSIT_D,65-70 dB,9.91%
+8,Nou Barris,TRANSIT_D,70-75 dB,2.57%
+8,Nou Barris,TRANSIT_D,75-80 dB,0.06%
+8,Nou Barris,TRANSIT_D,>=80 dB,0.00%
+9,Sant Andreu,TRANSIT_D,<40 dB,3.25%
+9,Sant Andreu,TRANSIT_D,40-45 dB,17.15%
+9,Sant Andreu,TRANSIT_D,45-50 dB,17.80%
+9,Sant Andreu,TRANSIT_D,50-55 dB,9.98%
+9,Sant Andreu,TRANSIT_D,55-60 dB,15.68%
+9,Sant Andreu,TRANSIT_D,60-65 dB,15.62%
+9,Sant Andreu,TRANSIT_D,65-70 dB,14.58%
+9,Sant Andreu,TRANSIT_D,70-75 dB,5.94%
+9,Sant Andreu,TRANSIT_D,75-80 dB,0.00%
+9,Sant Andreu,TRANSIT_D,>=80 dB,0.00%
+10,Sant Martí,TRANSIT_D,<40 dB,1.39%
+10,Sant Martí,TRANSIT_D,40-45 dB,14.97%
+10,Sant Martí,TRANSIT_D,45-50 dB,16.66%
+10,Sant Martí,TRANSIT_D,50-55 dB,12.14%
+10,Sant Martí,TRANSIT_D,55-60 dB,17.29%
+10,Sant Martí,TRANSIT_D,60-65 dB,18.16%
+10,Sant Martí,TRANSIT_D,65-70 dB,13.58%
+10,Sant Martí,TRANSIT_D,70-75 dB,5.77%
+10,Sant Martí,TRANSIT_D,75-80 dB,0.04%
+10,Sant Martí,TRANSIT_D,>=80 dB,0.00%
+1,Ciutat Vella,TRANSIT_E,<40 dB,24.37%
+1,Ciutat Vella,TRANSIT_E,40-45 dB,20.38%
+1,Ciutat Vella,TRANSIT_E,45-50 dB,8.90%
+1,Ciutat Vella,TRANSIT_E,50-55 dB,14.81%
+1,Ciutat Vella,TRANSIT_E,55-60 dB,17.22%
+1,Ciutat Vella,TRANSIT_E,60-65 dB,8.73%
+1,Ciutat Vella,TRANSIT_E,65-70 dB,4.68%
+1,Ciutat Vella,TRANSIT_E,70-75 dB,0.91%
+1,Ciutat Vella,TRANSIT_E,75-80 dB,0.00%
+1,Ciutat Vella,TRANSIT_E,>=80 dB,0.00%
+2,Eixample,TRANSIT_E,<40 dB,0.15%
+2,Eixample,TRANSIT_E,40-45 dB,20.00%
+2,Eixample,TRANSIT_E,45-50 dB,24.27%
+2,Eixample,TRANSIT_E,50-55 dB,1.44%
+2,Eixample,TRANSIT_E,55-60 dB,3.38%
+2,Eixample,TRANSIT_E,60-65 dB,10.72%
+2,Eixample,TRANSIT_E,65-70 dB,30.70%
+2,Eixample,TRANSIT_E,70-75 dB,9.33%
+2,Eixample,TRANSIT_E,75-80 dB,0.01%
+2,Eixample,TRANSIT_E,>=80 dB,0.00%
+3,Sants-Montjuïc,TRANSIT_E,<40 dB,16.12%
+3,Sants-Montjuïc,TRANSIT_E,40-45 dB,20.55%
+3,Sants-Montjuïc,TRANSIT_E,45-50 dB,9.27%
+3,Sants-Montjuïc,TRANSIT_E,50-55 dB,9.24%
+3,Sants-Montjuïc,TRANSIT_E,55-60 dB,16.99%
+3,Sants-Montjuïc,TRANSIT_E,60-65 dB,14.40%
+3,Sants-Montjuïc,TRANSIT_E,65-70 dB,10.85%
+3,Sants-Montjuïc,TRANSIT_E,70-75 dB,2.58%
+3,Sants-Montjuïc,TRANSIT_E,75-80 dB,0.00%
+3,Sants-Montjuïc,TRANSIT_E,>=80 dB,0.00%
+4,Les Corts,TRANSIT_E,<40 dB,1.54%
+4,Les Corts,TRANSIT_E,40-45 dB,23.50%
+4,Les Corts,TRANSIT_E,45-50 dB,8.45%
+4,Les Corts,TRANSIT_E,50-55 dB,10.58%
+4,Les Corts,TRANSIT_E,55-60 dB,19.27%
+4,Les Corts,TRANSIT_E,60-65 dB,18.75%
+4,Les Corts,TRANSIT_E,65-70 dB,15.39%
+4,Les Corts,TRANSIT_E,70-75 dB,2.52%
+4,Les Corts,TRANSIT_E,75-80 dB,0.00%
+4,Les Corts,TRANSIT_E,>=80 dB,0.00%
+5,Sarrià-Sant Gervasi,TRANSIT_E,<40 dB,4.08%
+5,Sarrià-Sant Gervasi,TRANSIT_E,40-45 dB,24.74%
+5,Sarrià-Sant Gervasi,TRANSIT_E,45-50 dB,13.72%
+5,Sarrià-Sant Gervasi,TRANSIT_E,50-55 dB,11.81%
+5,Sarrià-Sant Gervasi,TRANSIT_E,55-60 dB,14.76%
+5,Sarrià-Sant Gervasi,TRANSIT_E,60-65 dB,13.56%
+5,Sarrià-Sant Gervasi,TRANSIT_E,65-70 dB,10.98%
+5,Sarrià-Sant Gervasi,TRANSIT_E,70-75 dB,6.35%
+5,Sarrià-Sant Gervasi,TRANSIT_E,75-80 dB,0.00%
+5,Sarrià-Sant Gervasi,TRANSIT_E,>=80 dB,0.00%
+6,Gràcia,TRANSIT_E,<40 dB,8.38%
+6,Gràcia,TRANSIT_E,40-45 dB,24.34%
+6,Gràcia,TRANSIT_E,45-50 dB,11.68%
+6,Gràcia,TRANSIT_E,50-55 dB,10.05%
+6,Gràcia,TRANSIT_E,55-60 dB,11.72%
+6,Gràcia,TRANSIT_E,60-65 dB,14.16%
+6,Gràcia,TRANSIT_E,65-70 dB,15.05%
+6,Gràcia,TRANSIT_E,70-75 dB,4.62%
+6,Gràcia,TRANSIT_E,75-80 dB,0.00%
+6,Gràcia,TRANSIT_E,>=80 dB,0.00%
+7,Horta-Guinardó,TRANSIT_E,<40 dB,11.42%
+7,Horta-Guinardó,TRANSIT_E,40-45 dB,24.32%
+7,Horta-Guinardó,TRANSIT_E,45-50 dB,10.67%
+7,Horta-Guinardó,TRANSIT_E,50-55 dB,11.88%
+7,Horta-Guinardó,TRANSIT_E,55-60 dB,16.24%
+7,Horta-Guinardó,TRANSIT_E,60-65 dB,13.49%
+7,Horta-Guinardó,TRANSIT_E,65-70 dB,10.43%
+7,Horta-Guinardó,TRANSIT_E,70-75 dB,1.55%
+7,Horta-Guinardó,TRANSIT_E,75-80 dB,0.00%
+7,Horta-Guinardó,TRANSIT_E,>=80 dB,0.00%
+8,Nou Barris,TRANSIT_E,<40 dB,10.32%
+8,Nou Barris,TRANSIT_E,40-45 dB,20.16%
+8,Nou Barris,TRANSIT_E,45-50 dB,12.23%
+8,Nou Barris,TRANSIT_E,50-55 dB,17.70%
+8,Nou Barris,TRANSIT_E,55-60 dB,18.37%
+8,Nou Barris,TRANSIT_E,60-65 dB,12.31%
+8,Nou Barris,TRANSIT_E,65-70 dB,7.80%
+8,Nou Barris,TRANSIT_E,70-75 dB,1.09%
+8,Nou Barris,TRANSIT_E,75-80 dB,0.02%
+8,Nou Barris,TRANSIT_E,>=80 dB,0.00%
+9,Sant Andreu,TRANSIT_E,<40 dB,7.77%
+9,Sant Andreu,TRANSIT_E,40-45 dB,20.81%
+9,Sant Andreu,TRANSIT_E,45-50 dB,12.61%
+9,Sant Andreu,TRANSIT_E,50-55 dB,11.70%
+9,Sant Andreu,TRANSIT_E,55-60 dB,16.48%
+9,Sant Andreu,TRANSIT_E,60-65 dB,14.82%
+9,Sant Andreu,TRANSIT_E,65-70 dB,13.21%
+9,Sant Andreu,TRANSIT_E,70-75 dB,2.60%
+9,Sant Andreu,TRANSIT_E,75-80 dB,0.00%
+9,Sant Andreu,TRANSIT_E,>=80 dB,0.00%
+10,Sant Martí,TRANSIT_E,<40 dB,3.92%
+10,Sant Martí,TRANSIT_E,40-45 dB,19.17%
+10,Sant Martí,TRANSIT_E,45-50 dB,13.86%
+10,Sant Martí,TRANSIT_E,50-55 dB,13.43%
+10,Sant Martí,TRANSIT_E,55-60 dB,18.20%
+10,Sant Martí,TRANSIT_E,60-65 dB,17.01%
+10,Sant Martí,TRANSIT_E,65-70 dB,11.55%
+10,Sant Martí,TRANSIT_E,70-75 dB,2.86%
+10,Sant Martí,TRANSIT_E,75-80 dB,0.00%
+10,Sant Martí,TRANSIT_E,>=80 dB,0.00%
+1,Ciutat Vella,TRANSIT_N,<40 dB,45.03%
+1,Ciutat Vella,TRANSIT_N,40-45 dB,9.04%
+1,Ciutat Vella,TRANSIT_N,45-50 dB,14.97%
+1,Ciutat Vella,TRANSIT_N,50-55 dB,17.19%
+1,Ciutat Vella,TRANSIT_N,55-60 dB,8.45%
+1,Ciutat Vella,TRANSIT_N,60-65 dB,4.45%
+1,Ciutat Vella,TRANSIT_N,65-70 dB,0.87%
+1,Ciutat Vella,TRANSIT_N,70-75 dB,0.00%
+1,Ciutat Vella,TRANSIT_N,75-80 dB,0.00%
+1,Ciutat Vella,TRANSIT_N,>=80 dB,0.00%
+2,Eixample,TRANSIT_N,<40 dB,22.89%
+2,Eixample,TRANSIT_N,40-45 dB,21.66%
+2,Eixample,TRANSIT_N,45-50 dB,1.38%
+2,Eixample,TRANSIT_N,50-55 dB,3.50%
+2,Eixample,TRANSIT_N,55-60 dB,11.44%
+2,Eixample,TRANSIT_N,60-65 dB,30.71%
+2,Eixample,TRANSIT_N,65-70 dB,8.42%
+2,Eixample,TRANSIT_N,70-75 dB,0.00%
+2,Eixample,TRANSIT_N,75-80 dB,0.00%
+2,Eixample,TRANSIT_N,>=80 dB,0.00%
+3,Sants-Montjuïc,TRANSIT_N,<40 dB,37.02%
+3,Sants-Montjuïc,TRANSIT_N,40-45 dB,9.07%
+3,Sants-Montjuïc,TRANSIT_N,45-50 dB,9.54%
+3,Sants-Montjuïc,TRANSIT_N,50-55 dB,17.43%
+3,Sants-Montjuïc,TRANSIT_N,55-60 dB,13.89%
+3,Sants-Montjuïc,TRANSIT_N,60-65 dB,10.78%
+3,Sants-Montjuïc,TRANSIT_N,65-70 dB,2.27%
+3,Sants-Montjuïc,TRANSIT_N,70-75 dB,0.00%
+3,Sants-Montjuïc,TRANSIT_N,75-80 dB,0.00%
+3,Sants-Montjuïc,TRANSIT_N,>=80 dB,0.00%
+4,Les Corts,TRANSIT_N,<40 dB,25.37%
+4,Les Corts,TRANSIT_N,40-45 dB,8.28%
+4,Les Corts,TRANSIT_N,45-50 dB,10.74%
+4,Les Corts,TRANSIT_N,50-55 dB,19.70%
+4,Les Corts,TRANSIT_N,55-60 dB,18.49%
+4,Les Corts,TRANSIT_N,60-65 dB,15.42%
+4,Les Corts,TRANSIT_N,65-70 dB,2.00%
+4,Les Corts,TRANSIT_N,70-75 dB,0.00%
+4,Les Corts,TRANSIT_N,75-80 dB,0.00%
+4,Les Corts,TRANSIT_N,>=80 dB,0.00%
+5,Sarrià-Sant Gervasi,TRANSIT_N,<40 dB,29.65%
+5,Sarrià-Sant Gervasi,TRANSIT_N,40-45 dB,13.09%
+5,Sarrià-Sant Gervasi,TRANSIT_N,45-50 dB,12.10%
+5,Sarrià-Sant Gervasi,TRANSIT_N,50-55 dB,14.75%
+5,Sarrià-Sant Gervasi,TRANSIT_N,55-60 dB,13.48%
+5,Sarrià-Sant Gervasi,TRANSIT_N,60-65 dB,11.06%
+5,Sarrià-Sant Gervasi,TRANSIT_N,65-70 dB,5.87%
+5,Sarrià-Sant Gervasi,TRANSIT_N,70-75 dB,0.00%
+5,Sarrià-Sant Gervasi,TRANSIT_N,75-80 dB,0.00%
+5,Sarrià-Sant Gervasi,TRANSIT_N,>=80 dB,0.00%
+6,Gràcia,TRANSIT_N,<40 dB,33.69%
+6,Gràcia,TRANSIT_N,40-45 dB,10.92%
+6,Gràcia,TRANSIT_N,45-50 dB,10.25%
+6,Gràcia,TRANSIT_N,50-55 dB,11.73%
+6,Gràcia,TRANSIT_N,55-60 dB,14.45%
+6,Gràcia,TRANSIT_N,60-65 dB,14.72%
+6,Gràcia,TRANSIT_N,65-70 dB,4.24%
+6,Gràcia,TRANSIT_N,70-75 dB,0.00%
+6,Gràcia,TRANSIT_N,75-80 dB,0.00%
+6,Gràcia,TRANSIT_N,>=80 dB,0.00%
+7,Horta-Guinardó,TRANSIT_N,<40 dB,36.42%
+7,Horta-Guinardó,TRANSIT_N,40-45 dB,10.11%
+7,Horta-Guinardó,TRANSIT_N,45-50 dB,12.19%
+7,Horta-Guinardó,TRANSIT_N,50-55 dB,16.20%
+7,Horta-Guinardó,TRANSIT_N,55-60 dB,13.61%
+7,Horta-Guinardó,TRANSIT_N,60-65 dB,10.24%
+7,Horta-Guinardó,TRANSIT_N,65-70 dB,1.23%
+7,Horta-Guinardó,TRANSIT_N,70-75 dB,0.00%
+7,Horta-Guinardó,TRANSIT_N,75-80 dB,0.00%
+7,Horta-Guinardó,TRANSIT_N,>=80 dB,0.00%
+8,Nou Barris,TRANSIT_N,<40 dB,30.82%
+8,Nou Barris,TRANSIT_N,40-45 dB,12.12%
+8,Nou Barris,TRANSIT_N,45-50 dB,18.08%
+8,Nou Barris,TRANSIT_N,50-55 dB,18.25%
+8,Nou Barris,TRANSIT_N,55-60 dB,12.11%
+8,Nou Barris,TRANSIT_N,60-65 dB,7.59%
+8,Nou Barris,TRANSIT_N,65-70 dB,1.01%
+8,Nou Barris,TRANSIT_N,70-75 dB,0.02%
+8,Nou Barris,TRANSIT_N,75-80 dB,0.00%
+8,Nou Barris,TRANSIT_N,>=80 dB,0.00%
+9,Sant Andreu,TRANSIT_N,<40 dB,29.13%
+9,Sant Andreu,TRANSIT_N,40-45 dB,12.16%
+9,Sant Andreu,TRANSIT_N,45-50 dB,11.98%
+9,Sant Andreu,TRANSIT_N,50-55 dB,16.56%
+9,Sant Andreu,TRANSIT_N,55-60 dB,15.08%
+9,Sant Andreu,TRANSIT_N,60-65 dB,13.06%
+9,Sant Andreu,TRANSIT_N,65-70 dB,2.03%
+9,Sant Andreu,TRANSIT_N,70-75 dB,0.00%
+9,Sant Andreu,TRANSIT_N,75-80 dB,0.00%
+9,Sant Andreu,TRANSIT_N,>=80 dB,0.00%
+10,Sant Martí,TRANSIT_N,<40 dB,23.67%
+10,Sant Martí,TRANSIT_N,40-45 dB,13.52%
+10,Sant Martí,TRANSIT_N,45-50 dB,13.64%
+10,Sant Martí,TRANSIT_N,50-55 dB,18.38%
+10,Sant Martí,TRANSIT_N,55-60 dB,16.81%
+10,Sant Martí,TRANSIT_N,60-65 dB,11.44%
+10,Sant Martí,TRANSIT_N,65-70 dB,2.54%
+10,Sant Martí,TRANSIT_N,70-75 dB,0.00%
+10,Sant Martí,TRANSIT_N,75-80 dB,0.00%
+10,Sant Martí,TRANSIT_N,>=80 dB,0.00%
+1,Ciutat Vella,TRANSIT_DEN,<40 dB,3.64%
+1,Ciutat Vella,TRANSIT_DEN,40-45 dB,31.60%
+1,Ciutat Vella,TRANSIT_DEN,45-50 dB,12.24%
+1,Ciutat Vella,TRANSIT_DEN,50-55 dB,10.42%
+1,Ciutat Vella,TRANSIT_DEN,55-60 dB,16.91%
+1,Ciutat Vella,TRANSIT_DEN,60-65 dB,15.03%
+1,Ciutat Vella,TRANSIT_DEN,65-70 dB,6.45%
+1,Ciutat Vella,TRANSIT_DEN,70-75 dB,3.34%
+1,Ciutat Vella,TRANSIT_DEN,75-80 dB,0.37%
+1,Ciutat Vella,TRANSIT_DEN,>=80 dB,0.00%
+2,Eixample,TRANSIT_DEN,<40 dB,0.15%
+2,Eixample,TRANSIT_DEN,40-45 dB,0.43%
+2,Eixample,TRANSIT_DEN,45-50 dB,36.64%
+2,Eixample,TRANSIT_DEN,50-55 dB,7.70%
+2,Eixample,TRANSIT_DEN,55-60 dB,1.68%
+2,Eixample,TRANSIT_DEN,60-65 dB,5.26%
+2,Eixample,TRANSIT_DEN,65-70 dB,17.55%
+2,Eixample,TRANSIT_DEN,70-75 dB,27.20%
+2,Eixample,TRANSIT_DEN,75-80 dB,3.39%
+2,Eixample,TRANSIT_DEN,>=80 dB,0.00%
+3,Sants-Montjuïc,TRANSIT_DEN,<40 dB,1.66%
+3,Sants-Montjuïc,TRANSIT_DEN,40-45 dB,22.25%
+3,Sants-Montjuïc,TRANSIT_DEN,45-50 dB,16.47%
+3,Sants-Montjuïc,TRANSIT_DEN,50-55 dB,7.88%
+3,Sants-Montjuïc,TRANSIT_DEN,55-60 dB,11.84%
+3,Sants-Montjuïc,TRANSIT_DEN,60-65 dB,18.39%
+3,Sants-Montjuïc,TRANSIT_DEN,65-70 dB,13.08%
+3,Sants-Montjuïc,TRANSIT_DEN,70-75 dB,7.53%
+3,Sants-Montjuïc,TRANSIT_DEN,75-80 dB,0.90%
+3,Sants-Montjuïc,TRANSIT_DEN,>=80 dB,0.00%
+4,Les Corts,TRANSIT_DEN,<40 dB,0.16%
+4,Les Corts,TRANSIT_DEN,40-45 dB,8.14%
+4,Les Corts,TRANSIT_DEN,45-50 dB,19.70%
+4,Les Corts,TRANSIT_DEN,50-55 dB,8.30%
+4,Les Corts,TRANSIT_DEN,55-60 dB,12.57%
+4,Les Corts,TRANSIT_DEN,60-65 dB,22.60%
+4,Les Corts,TRANSIT_DEN,65-70 dB,15.82%
+4,Les Corts,TRANSIT_DEN,70-75 dB,12.03%
+4,Les Corts,TRANSIT_DEN,75-80 dB,0.68%
+4,Les Corts,TRANSIT_DEN,>=80 dB,0.00%
+5,Sarrià-Sant Gervasi,TRANSIT_DEN,<40 dB,0.97%
+5,Sarrià-Sant Gervasi,TRANSIT_DEN,40-45 dB,9.57%
+5,Sarrià-Sant Gervasi,TRANSIT_DEN,45-50 dB,24.78%
+5,Sarrià-Sant Gervasi,TRANSIT_DEN,50-55 dB,10.56%
+5,Sarrià-Sant Gervasi,TRANSIT_DEN,55-60 dB,13.32%
+5,Sarrià-Sant Gervasi,TRANSIT_DEN,60-65 dB,15.23%
+5,Sarrià-Sant Gervasi,TRANSIT_DEN,65-70 dB,11.23%
+5,Sarrià-Sant Gervasi,TRANSIT_DEN,70-75 dB,12.23%
+5,Sarrià-Sant Gervasi,TRANSIT_DEN,75-80 dB,2.11%
+5,Sarrià-Sant Gervasi,TRANSIT_DEN,>=80 dB,0.00%
+6,Gràcia,TRANSIT_DEN,<40 dB,0.87%
+6,Gràcia,TRANSIT_DEN,40-45 dB,15.45%
+6,Gràcia,TRANSIT_DEN,45-50 dB,22.83%
+6,Gràcia,TRANSIT_DEN,50-55 dB,8.15%
+6,Gràcia,TRANSIT_DEN,55-60 dB,11.29%
+6,Gràcia,TRANSIT_DEN,60-65 dB,12.36%
+6,Gràcia,TRANSIT_DEN,65-70 dB,16.19%
+6,Gràcia,TRANSIT_DEN,70-75 dB,11.16%
+6,Gràcia,TRANSIT_DEN,75-80 dB,1.70%
+6,Gràcia,TRANSIT_DEN,>=80 dB,0.00%
+7,Horta-Guinardó,TRANSIT_DEN,<40 dB,2.20%
+7,Horta-Guinardó,TRANSIT_DEN,40-45 dB,18.45%
+7,Horta-Guinardó,TRANSIT_DEN,45-50 dB,19.71%
+7,Horta-Guinardó,TRANSIT_DEN,50-55 dB,9.55%
+7,Horta-Guinardó,TRANSIT_DEN,55-60 dB,14.16%
+7,Horta-Guinardó,TRANSIT_DEN,60-65 dB,14.78%
+7,Horta-Guinardó,TRANSIT_DEN,65-70 dB,13.18%
+7,Horta-Guinardó,TRANSIT_DEN,70-75 dB,7.63%
+7,Horta-Guinardó,TRANSIT_DEN,75-80 dB,0.34%
+7,Horta-Guinardó,TRANSIT_DEN,>=80 dB,0.00%
+8,Nou Barris,TRANSIT_DEN,<40 dB,2.08%
+8,Nou Barris,TRANSIT_DEN,40-45 dB,14.64%
+8,Nou Barris,TRANSIT_DEN,45-50 dB,18.21%
+8,Nou Barris,TRANSIT_DEN,50-55 dB,11.83%
+8,Nou Barris,TRANSIT_DEN,55-60 dB,20.39%
+8,Nou Barris,TRANSIT_DEN,60-65 dB,16.26%
+8,Nou Barris,TRANSIT_DEN,65-70 dB,10.78%
+8,Nou Barris,TRANSIT_DEN,70-75 dB,5.57%
+8,Nou Barris,TRANSIT_DEN,75-80 dB,0.24%
+8,Nou Barris,TRANSIT_DEN,>=80 dB,0.00%
+9,Sant Andreu,TRANSIT_DEN,<40 dB,1.51%
+9,Sant Andreu,TRANSIT_DEN,40-45 dB,12.32%
+9,Sant Andreu,TRANSIT_DEN,45-50 dB,20.04%
+9,Sant Andreu,TRANSIT_DEN,50-55 dB,10.37%
+9,Sant Andreu,TRANSIT_DEN,55-60 dB,14.14%
+9,Sant Andreu,TRANSIT_DEN,60-65 dB,16.93%
+9,Sant Andreu,TRANSIT_DEN,65-70 dB,14.41%
+9,Sant Andreu,TRANSIT_DEN,70-75 dB,9.57%
+9,Sant Andreu,TRANSIT_DEN,75-80 dB,0.71%
+9,Sant Andreu,TRANSIT_DEN,>=80 dB,0.00%
+10,Sant Martí,TRANSIT_DEN,<40 dB,0.54%
+10,Sant Martí,TRANSIT_DEN,40-45 dB,8.82%
+10,Sant Martí,TRANSIT_DEN,45-50 dB,19.68%
+10,Sant Martí,TRANSIT_DEN,50-55 dB,12.13%
+10,Sant Martí,TRANSIT_DEN,55-60 dB,15.24%
+10,Sant Martí,TRANSIT_DEN,60-65 dB,18.62%
+10,Sant Martí,TRANSIT_DEN,65-70 dB,15.25%
+10,Sant Martí,TRANSIT_DEN,70-75 dB,8.82%
+10,Sant Martí,TRANSIT_DEN,75-80 dB,0.90%
+10,Sant Martí,TRANSIT_DEN,>=80 dB,0.00%
+1,Ciutat Vella,GI_TR_D,<40 dB,73.33%
+1,Ciutat Vella,GI_TR_D,40-45 dB,16.11%
+1,Ciutat Vella,GI_TR_D,45-50 dB,4.61%
+1,Ciutat Vella,GI_TR_D,50-55 dB,2.06%
+1,Ciutat Vella,GI_TR_D,55-60 dB,1.19%
+1,Ciutat Vella,GI_TR_D,60-65 dB,0.71%
+1,Ciutat Vella,GI_TR_D,65-70 dB,0.68%
+1,Ciutat Vella,GI_TR_D,70-75 dB,1.26%
+1,Ciutat Vella,GI_TR_D,75-80 dB,0.05%
+1,Ciutat Vella,GI_TR_D,>=80 dB,0.00%
+2,Eixample,GI_TR_D,<40 dB,29.36%
+2,Eixample,GI_TR_D,40-45 dB,25.21%
+2,Eixample,GI_TR_D,45-50 dB,19.45%
+2,Eixample,GI_TR_D,50-55 dB,4.24%
+2,Eixample,GI_TR_D,55-60 dB,5.24%
+2,Eixample,GI_TR_D,60-65 dB,4.37%
+2,Eixample,GI_TR_D,65-70 dB,3.60%
+2,Eixample,GI_TR_D,70-75 dB,7.79%
+2,Eixample,GI_TR_D,75-80 dB,0.74%
+2,Eixample,GI_TR_D,>=80 dB,0.00%
+3,Sants-Montjuïc,GI_TR_D,<40 dB,58.69%
+3,Sants-Montjuïc,GI_TR_D,40-45 dB,17.73%
+3,Sants-Montjuïc,GI_TR_D,45-50 dB,7.99%
+3,Sants-Montjuïc,GI_TR_D,50-55 dB,3.49%
+3,Sants-Montjuïc,GI_TR_D,55-60 dB,2.46%
+3,Sants-Montjuïc,GI_TR_D,60-65 dB,2.08%
+3,Sants-Montjuïc,GI_TR_D,65-70 dB,4.34%
+3,Sants-Montjuïc,GI_TR_D,70-75 dB,3.22%
+3,Sants-Montjuïc,GI_TR_D,75-80 dB,0.00%
+3,Sants-Montjuïc,GI_TR_D,>=80 dB,0.00%
+4,Les Corts,GI_TR_D,<40 dB,48.98%
+4,Les Corts,GI_TR_D,40-45 dB,20.46%
+4,Les Corts,GI_TR_D,45-50 dB,7.67%
+4,Les Corts,GI_TR_D,50-55 dB,6.26%
+4,Les Corts,GI_TR_D,55-60 dB,5.44%
+4,Les Corts,GI_TR_D,60-65 dB,3.65%
+4,Les Corts,GI_TR_D,65-70 dB,3.20%
+4,Les Corts,GI_TR_D,70-75 dB,4.34%
+4,Les Corts,GI_TR_D,75-80 dB,0.00%
+4,Les Corts,GI_TR_D,>=80 dB,0.00%
+5,Sarrià-Sant Gervasi,GI_TR_D,<40 dB,54.69%
+5,Sarrià-Sant Gervasi,GI_TR_D,40-45 dB,21.53%
+5,Sarrià-Sant Gervasi,GI_TR_D,45-50 dB,9.80%
+5,Sarrià-Sant Gervasi,GI_TR_D,50-55 dB,3.62%
+5,Sarrià-Sant Gervasi,GI_TR_D,55-60 dB,3.34%
+5,Sarrià-Sant Gervasi,GI_TR_D,60-65 dB,2.32%
+5,Sarrià-Sant Gervasi,GI_TR_D,65-70 dB,1.77%
+5,Sarrià-Sant Gervasi,GI_TR_D,70-75 dB,2.93%
+5,Sarrià-Sant Gervasi,GI_TR_D,75-80 dB,0.00%
+5,Sarrià-Sant Gervasi,GI_TR_D,>=80 dB,0.00%
+6,Gràcia,GI_TR_D,<40 dB,77.74%
+6,Gràcia,GI_TR_D,40-45 dB,9.03%
+6,Gràcia,GI_TR_D,45-50 dB,5.77%
+6,Gràcia,GI_TR_D,50-55 dB,2.17%
+6,Gràcia,GI_TR_D,55-60 dB,1.32%
+6,Gràcia,GI_TR_D,60-65 dB,1.10%
+6,Gràcia,GI_TR_D,65-70 dB,0.96%
+6,Gràcia,GI_TR_D,70-75 dB,1.40%
+6,Gràcia,GI_TR_D,75-80 dB,0.51%
+6,Gràcia,GI_TR_D,>=80 dB,0.00%
+7,Horta-Guinardó,GI_TR_D,<40 dB,68.70%
+7,Horta-Guinardó,GI_TR_D,40-45 dB,12.63%
+7,Horta-Guinardó,GI_TR_D,45-50 dB,7.25%
+7,Horta-Guinardó,GI_TR_D,50-55 dB,4.07%
+7,Horta-Guinardó,GI_TR_D,55-60 dB,2.55%
+7,Horta-Guinardó,GI_TR_D,60-65 dB,1.85%
+7,Horta-Guinardó,GI_TR_D,65-70 dB,1.44%
+7,Horta-Guinardó,GI_TR_D,70-75 dB,1.40%
+7,Horta-Guinardó,GI_TR_D,75-80 dB,0.11%
+7,Horta-Guinardó,GI_TR_D,>=80 dB,0.00%
+8,Nou Barris,GI_TR_D,<40 dB,60.37%
+8,Nou Barris,GI_TR_D,40-45 dB,16.43%
+8,Nou Barris,GI_TR_D,45-50 dB,8.60%
+8,Nou Barris,GI_TR_D,50-55 dB,5.02%
+8,Nou Barris,GI_TR_D,55-60 dB,3.43%
+8,Nou Barris,GI_TR_D,60-65 dB,2.56%
+8,Nou Barris,GI_TR_D,65-70 dB,2.49%
+8,Nou Barris,GI_TR_D,70-75 dB,1.05%
+8,Nou Barris,GI_TR_D,75-80 dB,0.05%
+8,Nou Barris,GI_TR_D,>=80 dB,0.00%
+9,Sant Andreu,GI_TR_D,<40 dB,47.28%
+9,Sant Andreu,GI_TR_D,40-45 dB,17.09%
+9,Sant Andreu,GI_TR_D,45-50 dB,14.92%
+9,Sant Andreu,GI_TR_D,50-55 dB,6.20%
+9,Sant Andreu,GI_TR_D,55-60 dB,3.78%
+9,Sant Andreu,GI_TR_D,60-65 dB,3.75%
+9,Sant Andreu,GI_TR_D,65-70 dB,3.11%
+9,Sant Andreu,GI_TR_D,70-75 dB,3.87%
+9,Sant Andreu,GI_TR_D,75-80 dB,0.00%
+9,Sant Andreu,GI_TR_D,>=80 dB,0.00%
+10,Sant Martí,GI_TR_D,<40 dB,50.72%
+10,Sant Martí,GI_TR_D,40-45 dB,16.48%
+10,Sant Martí,GI_TR_D,45-50 dB,12.86%
+10,Sant Martí,GI_TR_D,50-55 dB,4.78%
+10,Sant Martí,GI_TR_D,55-60 dB,4.23%
+10,Sant Martí,GI_TR_D,60-65 dB,6.03%
+10,Sant Martí,GI_TR_D,65-70 dB,2.15%
+10,Sant Martí,GI_TR_D,70-75 dB,2.72%
+10,Sant Martí,GI_TR_D,75-80 dB,0.03%
+10,Sant Martí,GI_TR_D,>=80 dB,0.00%
+1,Ciutat Vella,GI_TR_E,<40 dB,80.07%
+1,Ciutat Vella,GI_TR_E,40-45 dB,11.69%
+1,Ciutat Vella,GI_TR_E,45-50 dB,3.22%
+1,Ciutat Vella,GI_TR_E,50-55 dB,1.50%
+1,Ciutat Vella,GI_TR_E,55-60 dB,1.05%
+1,Ciutat Vella,GI_TR_E,60-65 dB,0.67%
+1,Ciutat Vella,GI_TR_E,65-70 dB,1.28%
+1,Ciutat Vella,GI_TR_E,70-75 dB,0.52%
+1,Ciutat Vella,GI_TR_E,75-80 dB,0.00%
+1,Ciutat Vella,GI_TR_E,>=80 dB,0.00%
+2,Eixample,GI_TR_E,<40 dB,37.11%
+2,Eixample,GI_TR_E,40-45 dB,26.29%
+2,Eixample,GI_TR_E,45-50 dB,11.85%
+2,Eixample,GI_TR_E,50-55 dB,4.90%
+2,Eixample,GI_TR_E,55-60 dB,4.96%
+2,Eixample,GI_TR_E,60-65 dB,3.80%
+2,Eixample,GI_TR_E,65-70 dB,4.84%
+2,Eixample,GI_TR_E,70-75 dB,6.24%
+2,Eixample,GI_TR_E,75-80 dB,0.01%
+2,Eixample,GI_TR_E,>=80 dB,0.00%
+3,Sants-Montjuïc,GI_TR_E,<40 dB,66.02%
+3,Sants-Montjuïc,GI_TR_E,40-45 dB,13.41%
+3,Sants-Montjuïc,GI_TR_E,45-50 dB,6.26%
+3,Sants-Montjuïc,GI_TR_E,50-55 dB,3.05%
+3,Sants-Montjuïc,GI_TR_E,55-60 dB,2.31%
+3,Sants-Montjuïc,GI_TR_E,60-65 dB,2.19%
+3,Sants-Montjuïc,GI_TR_E,65-70 dB,5.00%
+3,Sants-Montjuïc,GI_TR_E,70-75 dB,1.76%
+3,Sants-Montjuïc,GI_TR_E,75-80 dB,0.00%
+3,Sants-Montjuïc,GI_TR_E,>=80 dB,0.00%
+4,Les Corts,GI_TR_E,<40 dB,57.10%
+4,Les Corts,GI_TR_E,40-45 dB,14.71%
+4,Les Corts,GI_TR_E,45-50 dB,6.99%
+4,Les Corts,GI_TR_E,50-55 dB,6.45%
+4,Les Corts,GI_TR_E,55-60 dB,4.69%
+4,Les Corts,GI_TR_E,60-65 dB,3.40%
+4,Les Corts,GI_TR_E,65-70 dB,5.36%
+4,Les Corts,GI_TR_E,70-75 dB,1.30%
+4,Les Corts,GI_TR_E,75-80 dB,0.00%
+4,Les Corts,GI_TR_E,>=80 dB,0.00%
+5,Sarrià-Sant Gervasi,GI_TR_E,<40 dB,63.64%
+5,Sarrià-Sant Gervasi,GI_TR_E,40-45 dB,17.05%
+5,Sarrià-Sant Gervasi,GI_TR_E,45-50 dB,6.57%
+5,Sarrià-Sant Gervasi,GI_TR_E,50-55 dB,3.59%
+5,Sarrià-Sant Gervasi,GI_TR_E,55-60 dB,3.01%
+5,Sarrià-Sant Gervasi,GI_TR_E,60-65 dB,2.09%
+5,Sarrià-Sant Gervasi,GI_TR_E,65-70 dB,1.98%
+5,Sarrià-Sant Gervasi,GI_TR_E,70-75 dB,2.07%
+5,Sarrià-Sant Gervasi,GI_TR_E,75-80 dB,0.00%
+5,Sarrià-Sant Gervasi,GI_TR_E,>=80 dB,0.00%
+6,Gràcia,GI_TR_E,<40 dB,81.24%
+6,Gràcia,GI_TR_E,40-45 dB,8.00%
+6,Gràcia,GI_TR_E,45-50 dB,4.09%
+6,Gràcia,GI_TR_E,50-55 dB,1.84%
+6,Gràcia,GI_TR_E,55-60 dB,1.21%
+6,Gràcia,GI_TR_E,60-65 dB,1.06%
+6,Gràcia,GI_TR_E,65-70 dB,1.03%
+6,Gràcia,GI_TR_E,70-75 dB,1.53%
+6,Gràcia,GI_TR_E,75-80 dB,0.00%
+6,Gràcia,GI_TR_E,>=80 dB,0.00%
+7,Horta-Guinardó,GI_TR_E,<40 dB,73.06%
+7,Horta-Guinardó,GI_TR_E,40-45 dB,11.38%
+7,Horta-Guinardó,GI_TR_E,45-50 dB,5.30%
+7,Horta-Guinardó,GI_TR_E,50-55 dB,3.76%
+7,Horta-Guinardó,GI_TR_E,55-60 dB,2.32%
+7,Horta-Guinardó,GI_TR_E,60-65 dB,1.80%
+7,Horta-Guinardó,GI_TR_E,65-70 dB,1.73%
+7,Horta-Guinardó,GI_TR_E,70-75 dB,0.65%
+7,Horta-Guinardó,GI_TR_E,75-80 dB,0.00%
+7,Horta-Guinardó,GI_TR_E,>=80 dB,0.00%
+8,Nou Barris,GI_TR_E,<40 dB,66.53%
+8,Nou Barris,GI_TR_E,40-45 dB,13.76%
+8,Nou Barris,GI_TR_E,45-50 dB,6.84%
+8,Nou Barris,GI_TR_E,50-55 dB,4.44%
+8,Nou Barris,GI_TR_E,55-60 dB,3.12%
+8,Nou Barris,GI_TR_E,60-65 dB,2.40%
+8,Nou Barris,GI_TR_E,65-70 dB,2.42%
+8,Nou Barris,GI_TR_E,70-75 dB,0.47%
+8,Nou Barris,GI_TR_E,75-80 dB,0.02%
+8,Nou Barris,GI_TR_E,>=80 dB,0.00%
+9,Sant Andreu,GI_TR_E,<40 dB,53.98%
+9,Sant Andreu,GI_TR_E,40-45 dB,17.04%
+9,Sant Andreu,GI_TR_E,45-50 dB,10.15%
+9,Sant Andreu,GI_TR_E,50-55 dB,5.66%
+9,Sant Andreu,GI_TR_E,55-60 dB,3.52%
+9,Sant Andreu,GI_TR_E,60-65 dB,3.70%
+9,Sant Andreu,GI_TR_E,65-70 dB,4.03%
+9,Sant Andreu,GI_TR_E,70-75 dB,1.92%
+9,Sant Andreu,GI_TR_E,75-80 dB,0.00%
+9,Sant Andreu,GI_TR_E,>=80 dB,0.00%
+10,Sant Martí,GI_TR_E,<40 dB,56.87%
+10,Sant Martí,GI_TR_E,40-45 dB,15.61%
+10,Sant Martí,GI_TR_E,45-50 dB,9.16%
+10,Sant Martí,GI_TR_E,50-55 dB,4.69%
+10,Sant Martí,GI_TR_E,55-60 dB,4.44%
+10,Sant Martí,GI_TR_E,60-65 dB,5.07%
+10,Sant Martí,GI_TR_E,65-70 dB,2.02%
+10,Sant Martí,GI_TR_E,70-75 dB,2.14%
+10,Sant Martí,GI_TR_E,75-80 dB,0.00%
+10,Sant Martí,GI_TR_E,>=80 dB,0.00%
+1,Ciutat Vella,GI_TR_N,<40 dB,91.74%
+1,Ciutat Vella,GI_TR_N,40-45 dB,3.22%
+1,Ciutat Vella,GI_TR_N,45-50 dB,1.52%
+1,Ciutat Vella,GI_TR_N,50-55 dB,1.05%
+1,Ciutat Vella,GI_TR_N,55-60 dB,0.68%
+1,Ciutat Vella,GI_TR_N,60-65 dB,1.29%
+1,Ciutat Vella,GI_TR_N,65-70 dB,0.50%
+1,Ciutat Vella,GI_TR_N,70-75 dB,0.00%
+1,Ciutat Vella,GI_TR_N,75-80 dB,0.00%
+1,Ciutat Vella,GI_TR_N,>=80 dB,0.00%
+2,Eixample,GI_TR_N,<40 dB,63.88%
+2,Eixample,GI_TR_N,40-45 dB,11.32%
+2,Eixample,GI_TR_N,45-50 dB,5.09%
+2,Eixample,GI_TR_N,50-55 dB,4.99%
+2,Eixample,GI_TR_N,55-60 dB,3.73%
+2,Eixample,GI_TR_N,60-65 dB,5.11%
+2,Eixample,GI_TR_N,65-70 dB,5.88%
+2,Eixample,GI_TR_N,70-75 dB,0.00%
+2,Eixample,GI_TR_N,75-80 dB,0.00%
+2,Eixample,GI_TR_N,>=80 dB,0.00%
+3,Sants-Montjuïc,GI_TR_N,<40 dB,79.49%
+3,Sants-Montjuïc,GI_TR_N,40-45 dB,6.18%
+3,Sants-Montjuïc,GI_TR_N,45-50 dB,3.11%
+3,Sants-Montjuïc,GI_TR_N,50-55 dB,2.33%
+3,Sants-Montjuïc,GI_TR_N,55-60 dB,2.21%
+3,Sants-Montjuïc,GI_TR_N,60-65 dB,5.03%
+3,Sants-Montjuïc,GI_TR_N,65-70 dB,1.65%
+3,Sants-Montjuïc,GI_TR_N,70-75 dB,0.00%
+3,Sants-Montjuïc,GI_TR_N,75-80 dB,0.00%
+3,Sants-Montjuïc,GI_TR_N,>=80 dB,0.00%
+4,Les Corts,GI_TR_N,<40 dB,71.72%
+4,Les Corts,GI_TR_N,40-45 dB,6.86%
+4,Les Corts,GI_TR_N,45-50 dB,6.67%
+4,Les Corts,GI_TR_N,50-55 dB,4.71%
+4,Les Corts,GI_TR_N,55-60 dB,3.47%
+4,Les Corts,GI_TR_N,60-65 dB,5.46%
+4,Les Corts,GI_TR_N,65-70 dB,1.11%
+4,Les Corts,GI_TR_N,70-75 dB,0.00%
+4,Les Corts,GI_TR_N,75-80 dB,0.00%
+4,Les Corts,GI_TR_N,>=80 dB,0.00%
+5,Sarrià-Sant Gervasi,GI_TR_N,<40 dB,80.86%
+5,Sarrià-Sant Gervasi,GI_TR_N,40-45 dB,6.38%
+5,Sarrià-Sant Gervasi,GI_TR_N,45-50 dB,3.67%
+5,Sarrià-Sant Gervasi,GI_TR_N,50-55 dB,3.01%
+5,Sarrià-Sant Gervasi,GI_TR_N,55-60 dB,2.10%
+5,Sarrià-Sant Gervasi,GI_TR_N,60-65 dB,2.08%
+5,Sarrià-Sant Gervasi,GI_TR_N,65-70 dB,1.90%
+5,Sarrià-Sant Gervasi,GI_TR_N,70-75 dB,0.00%
+5,Sarrià-Sant Gervasi,GI_TR_N,75-80 dB,0.00%
+5,Sarrià-Sant Gervasi,GI_TR_N,>=80 dB,0.00%
+6,Gràcia,GI_TR_N,<40 dB,89.32%
+6,Gràcia,GI_TR_N,40-45 dB,3.98%
+6,Gràcia,GI_TR_N,45-50 dB,1.89%
+6,Gràcia,GI_TR_N,50-55 dB,1.21%
+6,Gràcia,GI_TR_N,55-60 dB,1.09%
+6,Gràcia,GI_TR_N,60-65 dB,1.01%
+6,Gràcia,GI_TR_N,65-70 dB,1.50%
+6,Gràcia,GI_TR_N,70-75 dB,0.00%
+6,Gràcia,GI_TR_N,75-80 dB,0.00%
+6,Gràcia,GI_TR_N,>=80 dB,0.00%
+7,Horta-Guinardó,GI_TR_N,<40 dB,84.27%
+7,Horta-Guinardó,GI_TR_N,40-45 dB,5.30%
+7,Horta-Guinardó,GI_TR_N,45-50 dB,3.85%
+7,Horta-Guinardó,GI_TR_N,50-55 dB,2.33%
+7,Horta-Guinardó,GI_TR_N,55-60 dB,1.95%
+7,Horta-Guinardó,GI_TR_N,60-65 dB,1.81%
+7,Horta-Guinardó,GI_TR_N,65-70 dB,0.49%
+7,Horta-Guinardó,GI_TR_N,70-75 dB,0.00%
+7,Horta-Guinardó,GI_TR_N,75-80 dB,0.00%
+7,Horta-Guinardó,GI_TR_N,>=80 dB,0.00%
+8,Nou Barris,GI_TR_N,<40 dB,80.39%
+8,Nou Barris,GI_TR_N,40-45 dB,6.64%
+8,Nou Barris,GI_TR_N,45-50 dB,4.53%
+8,Nou Barris,GI_TR_N,50-55 dB,3.10%
+8,Nou Barris,GI_TR_N,55-60 dB,2.53%
+8,Nou Barris,GI_TR_N,60-65 dB,2.35%
+8,Nou Barris,GI_TR_N,65-70 dB,0.44%
+8,Nou Barris,GI_TR_N,70-75 dB,0.02%
+8,Nou Barris,GI_TR_N,75-80 dB,0.00%
+8,Nou Barris,GI_TR_N,>=80 dB,0.00%
+9,Sant Andreu,GI_TR_N,<40 dB,71.41%
+9,Sant Andreu,GI_TR_N,40-45 dB,9.48%
+9,Sant Andreu,GI_TR_N,45-50 dB,5.72%
+9,Sant Andreu,GI_TR_N,50-55 dB,3.75%
+9,Sant Andreu,GI_TR_N,55-60 dB,3.72%
+9,Sant Andreu,GI_TR_N,60-65 dB,4.50%
+9,Sant Andreu,GI_TR_N,65-70 dB,1.42%
+9,Sant Andreu,GI_TR_N,70-75 dB,0.00%
+9,Sant Andreu,GI_TR_N,75-80 dB,0.00%
+9,Sant Andreu,GI_TR_N,>=80 dB,0.00%
+10,Sant Martí,GI_TR_N,<40 dB,72.84%
+10,Sant Martí,GI_TR_N,40-45 dB,8.77%
+10,Sant Martí,GI_TR_N,45-50 dB,4.74%
+10,Sant Martí,GI_TR_N,50-55 dB,4.54%
+10,Sant Martí,GI_TR_N,55-60 dB,5.03%
+10,Sant Martí,GI_TR_N,60-65 dB,2.21%
+10,Sant Martí,GI_TR_N,65-70 dB,1.87%
+10,Sant Martí,GI_TR_N,70-75 dB,0.00%
+10,Sant Martí,GI_TR_N,75-80 dB,0.00%
+10,Sant Martí,GI_TR_N,>=80 dB,0.00%
+1,Ciutat Vella,GI_TR_DEN,<40 dB,67.33%
+1,Ciutat Vella,GI_TR_DEN,40-45 dB,18.48%
+1,Ciutat Vella,GI_TR_DEN,45-50 dB,7.31%
+1,Ciutat Vella,GI_TR_DEN,50-55 dB,2.47%
+1,Ciutat Vella,GI_TR_DEN,55-60 dB,1.36%
+1,Ciutat Vella,GI_TR_DEN,60-65 dB,0.87%
+1,Ciutat Vella,GI_TR_DEN,65-70 dB,0.63%
+1,Ciutat Vella,GI_TR_DEN,70-75 dB,1.25%
+1,Ciutat Vella,GI_TR_DEN,75-80 dB,0.30%
+1,Ciutat Vella,GI_TR_DEN,>=80 dB,0.00%
+2,Eixample,GI_TR_DEN,<40 dB,23.46%
+2,Eixample,GI_TR_DEN,40-45 dB,23.57%
+2,Eixample,GI_TR_DEN,45-50 dB,23.10%
+2,Eixample,GI_TR_DEN,50-55 dB,6.57%
+2,Eixample,GI_TR_DEN,55-60 dB,5.14%
+2,Eixample,GI_TR_DEN,60-65 dB,4.89%
+2,Eixample,GI_TR_DEN,65-70 dB,3.21%
+2,Eixample,GI_TR_DEN,70-75 dB,7.24%
+2,Eixample,GI_TR_DEN,75-80 dB,2.82%
+2,Eixample,GI_TR_DEN,>=80 dB,0.00%
+3,Sants-Montjuïc,GI_TR_DEN,<40 dB,51.97%
+3,Sants-Montjuïc,GI_TR_DEN,40-45 dB,19.64%
+3,Sants-Montjuïc,GI_TR_DEN,45-50 dB,10.67%
+3,Sants-Montjuïc,GI_TR_DEN,50-55 dB,4.49%
+3,Sants-Montjuïc,GI_TR_DEN,55-60 dB,2.81%
+3,Sants-Montjuïc,GI_TR_DEN,60-65 dB,2.20%
+3,Sants-Montjuïc,GI_TR_DEN,65-70 dB,3.88%
+3,Sants-Montjuïc,GI_TR_DEN,70-75 dB,3.45%
+3,Sants-Montjuïc,GI_TR_DEN,75-80 dB,0.89%
+3,Sants-Montjuïc,GI_TR_DEN,>=80 dB,0.00%
+4,Les Corts,GI_TR_DEN,<40 dB,39.77%
+4,Les Corts,GI_TR_DEN,40-45 dB,23.86%
+4,Les Corts,GI_TR_DEN,45-50 dB,10.86%
+4,Les Corts,GI_TR_DEN,50-55 dB,6.50%
+4,Les Corts,GI_TR_DEN,55-60 dB,6.06%
+4,Les Corts,GI_TR_DEN,60-65 dB,4.29%
+4,Les Corts,GI_TR_DEN,65-70 dB,2.86%
+4,Les Corts,GI_TR_DEN,70-75 dB,5.22%
+4,Les Corts,GI_TR_DEN,75-80 dB,0.58%
+4,Les Corts,GI_TR_DEN,>=80 dB,0.00%
+5,Sarrià-Sant Gervasi,GI_TR_DEN,<40 dB,44.08%
+5,Sarrià-Sant Gervasi,GI_TR_DEN,40-45 dB,26.73%
+5,Sarrià-Sant Gervasi,GI_TR_DEN,45-50 dB,13.06%
+5,Sarrià-Sant Gervasi,GI_TR_DEN,50-55 dB,4.67%
+5,Sarrià-Sant Gervasi,GI_TR_DEN,55-60 dB,3.41%
+5,Sarrià-Sant Gervasi,GI_TR_DEN,60-65 dB,2.66%
+5,Sarrià-Sant Gervasi,GI_TR_DEN,65-70 dB,1.91%
+5,Sarrià-Sant Gervasi,GI_TR_DEN,70-75 dB,2.79%
+5,Sarrià-Sant Gervasi,GI_TR_DEN,75-80 dB,0.69%
+5,Sarrià-Sant Gervasi,GI_TR_DEN,>=80 dB,0.00%
+6,Gràcia,GI_TR_DEN,<40 dB,73.43%
+6,Gràcia,GI_TR_DEN,40-45 dB,10.72%
+6,Gràcia,GI_TR_DEN,45-50 dB,7.07%
+6,Gràcia,GI_TR_DEN,50-55 dB,2.83%
+6,Gràcia,GI_TR_DEN,55-60 dB,1.58%
+6,Gràcia,GI_TR_DEN,60-65 dB,1.14%
+6,Gràcia,GI_TR_DEN,65-70 dB,1.12%
+6,Gràcia,GI_TR_DEN,70-75 dB,1.12%
+6,Gràcia,GI_TR_DEN,75-80 dB,0.99%
+6,Gràcia,GI_TR_DEN,>=80 dB,0.00%
+7,Horta-Guinardó,GI_TR_DEN,<40 dB,62.85%
+7,Horta-Guinardó,GI_TR_DEN,40-45 dB,14.58%
+7,Horta-Guinardó,GI_TR_DEN,45-50 dB,9.24%
+7,Horta-Guinardó,GI_TR_DEN,50-55 dB,4.58%
+7,Horta-Guinardó,GI_TR_DEN,55-60 dB,3.11%
+7,Horta-Guinardó,GI_TR_DEN,60-65 dB,2.11%
+7,Horta-Guinardó,GI_TR_DEN,65-70 dB,1.59%
+7,Horta-Guinardó,GI_TR_DEN,70-75 dB,1.77%
+7,Horta-Guinardó,GI_TR_DEN,75-80 dB,0.17%
+7,Horta-Guinardó,GI_TR_DEN,>=80 dB,0.00%
+8,Nou Barris,GI_TR_DEN,<40 dB,53.62%
+8,Nou Barris,GI_TR_DEN,40-45 dB,18.59%
+8,Nou Barris,GI_TR_DEN,45-50 dB,10.84%
+8,Nou Barris,GI_TR_DEN,50-55 dB,5.90%
+8,Nou Barris,GI_TR_DEN,55-60 dB,3.87%
+8,Nou Barris,GI_TR_DEN,60-65 dB,2.72%
+8,Nou Barris,GI_TR_DEN,65-70 dB,2.49%
+8,Nou Barris,GI_TR_DEN,70-75 dB,1.85%
+8,Nou Barris,GI_TR_DEN,75-80 dB,0.12%
+8,Nou Barris,GI_TR_DEN,>=80 dB,0.00%
+9,Sant Andreu,GI_TR_DEN,<40 dB,40.75%
+9,Sant Andreu,GI_TR_DEN,40-45 dB,18.33%
+9,Sant Andreu,GI_TR_DEN,45-50 dB,16.68%
+9,Sant Andreu,GI_TR_DEN,50-55 dB,7.47%
+9,Sant Andreu,GI_TR_DEN,55-60 dB,4.83%
+9,Sant Andreu,GI_TR_DEN,60-65 dB,3.87%
+9,Sant Andreu,GI_TR_DEN,65-70 dB,3.13%
+9,Sant Andreu,GI_TR_DEN,70-75 dB,4.61%
+9,Sant Andreu,GI_TR_DEN,75-80 dB,0.33%
+9,Sant Andreu,GI_TR_DEN,>=80 dB,0.00%
+10,Sant Martí,GI_TR_DEN,<40 dB,44.18%
+10,Sant Martí,GI_TR_DEN,40-45 dB,18.35%
+10,Sant Martí,GI_TR_DEN,45-50 dB,14.62%
+10,Sant Martí,GI_TR_DEN,50-55 dB,6.07%
+10,Sant Martí,GI_TR_DEN,55-60 dB,4.50%
+10,Sant Martí,GI_TR_DEN,60-65 dB,5.54%
+10,Sant Martí,GI_TR_DEN,65-70 dB,3.47%
+10,Sant Martí,GI_TR_DEN,70-75 dB,2.45%
+10,Sant Martí,GI_TR_DEN,75-80 dB,0.82%
+10,Sant Martí,GI_TR_DEN,>=80 dB,0.00%
+1,Ciutat Vella,FFCC_D,<40 dB,99.39%
+1,Ciutat Vella,FFCC_D,40-45 dB,0.41%
+1,Ciutat Vella,FFCC_D,45-50 dB,0.14%
+1,Ciutat Vella,FFCC_D,50-55 dB,0.00%
+1,Ciutat Vella,FFCC_D,55-60 dB,0.06%
+1,Ciutat Vella,FFCC_D,60-65 dB,0.00%
+1,Ciutat Vella,FFCC_D,65-70 dB,0.00%
+1,Ciutat Vella,FFCC_D,70-75 dB,0.00%
+1,Ciutat Vella,FFCC_D,75-80 dB,0.00%
+1,Ciutat Vella,FFCC_D,>=80 dB,0.00%
+2,Eixample,FFCC_D,<40 dB,99.96%
+2,Eixample,FFCC_D,40-45 dB,0.04%
+2,Eixample,FFCC_D,45-50 dB,0.00%
+2,Eixample,FFCC_D,50-55 dB,0.00%
+2,Eixample,FFCC_D,55-60 dB,0.00%
+2,Eixample,FFCC_D,60-65 dB,0.00%
+2,Eixample,FFCC_D,65-70 dB,0.00%
+2,Eixample,FFCC_D,70-75 dB,0.00%
+2,Eixample,FFCC_D,75-80 dB,0.00%
+2,Eixample,FFCC_D,>=80 dB,0.00%
+3,Sants-Montjuïc,FFCC_D,<40 dB,99.99%
+3,Sants-Montjuïc,FFCC_D,40-45 dB,0.01%
+3,Sants-Montjuïc,FFCC_D,45-50 dB,0.00%
+3,Sants-Montjuïc,FFCC_D,50-55 dB,0.00%
+3,Sants-Montjuïc,FFCC_D,55-60 dB,0.00%
+3,Sants-Montjuïc,FFCC_D,60-65 dB,0.00%
+3,Sants-Montjuïc,FFCC_D,65-70 dB,0.00%
+3,Sants-Montjuïc,FFCC_D,70-75 dB,0.00%
+3,Sants-Montjuïc,FFCC_D,75-80 dB,0.00%
+3,Sants-Montjuïc,FFCC_D,>=80 dB,0.00%
+4,Les Corts,FFCC_D,<40 dB,96.92%
+4,Les Corts,FFCC_D,40-45 dB,1.24%
+4,Les Corts,FFCC_D,45-50 dB,0.96%
+4,Les Corts,FFCC_D,50-55 dB,0.50%
+4,Les Corts,FFCC_D,55-60 dB,0.38%
+4,Les Corts,FFCC_D,60-65 dB,0.00%
+4,Les Corts,FFCC_D,65-70 dB,0.00%
+4,Les Corts,FFCC_D,70-75 dB,0.00%
+4,Les Corts,FFCC_D,75-80 dB,0.00%
+4,Les Corts,FFCC_D,>=80 dB,0.00%
+5,Sarrià-Sant Gervasi,FFCC_D,<40 dB,98.71%
+5,Sarrià-Sant Gervasi,FFCC_D,40-45 dB,0.60%
+5,Sarrià-Sant Gervasi,FFCC_D,45-50 dB,0.38%
+5,Sarrià-Sant Gervasi,FFCC_D,50-55 dB,0.19%
+5,Sarrià-Sant Gervasi,FFCC_D,55-60 dB,0.06%
+5,Sarrià-Sant Gervasi,FFCC_D,60-65 dB,0.04%
+5,Sarrià-Sant Gervasi,FFCC_D,65-70 dB,0.02%
+5,Sarrià-Sant Gervasi,FFCC_D,70-75 dB,0.00%
+5,Sarrià-Sant Gervasi,FFCC_D,75-80 dB,0.00%
+5,Sarrià-Sant Gervasi,FFCC_D,>=80 dB,0.00%
+6,Gràcia,FFCC_D,<40 dB,100.00%
+6,Gràcia,FFCC_D,40-45 dB,0.00%
+6,Gràcia,FFCC_D,45-50 dB,0.00%
+6,Gràcia,FFCC_D,50-55 dB,0.00%
+6,Gràcia,FFCC_D,55-60 dB,0.00%
+6,Gràcia,FFCC_D,60-65 dB,0.00%
+6,Gràcia,FFCC_D,65-70 dB,0.00%
+6,Gràcia,FFCC_D,70-75 dB,0.00%
+6,Gràcia,FFCC_D,75-80 dB,0.00%
+6,Gràcia,FFCC_D,>=80 dB,0.00%
+7,Horta-Guinardó,FFCC_D,<40 dB,100.00%
+7,Horta-Guinardó,FFCC_D,40-45 dB,0.00%
+7,Horta-Guinardó,FFCC_D,45-50 dB,0.00%
+7,Horta-Guinardó,FFCC_D,50-55 dB,0.00%
+7,Horta-Guinardó,FFCC_D,55-60 dB,0.00%
+7,Horta-Guinardó,FFCC_D,60-65 dB,0.00%
+7,Horta-Guinardó,FFCC_D,65-70 dB,0.00%
+7,Horta-Guinardó,FFCC_D,70-75 dB,0.00%
+7,Horta-Guinardó,FFCC_D,75-80 dB,0.00%
+7,Horta-Guinardó,FFCC_D,>=80 dB,0.00%
+8,Nou Barris,FFCC_D,<40 dB,98.40%
+8,Nou Barris,FFCC_D,40-45 dB,0.56%
+8,Nou Barris,FFCC_D,45-50 dB,0.45%
+8,Nou Barris,FFCC_D,50-55 dB,0.26%
+8,Nou Barris,FFCC_D,55-60 dB,0.16%
+8,Nou Barris,FFCC_D,60-65 dB,0.11%
+8,Nou Barris,FFCC_D,65-70 dB,0.06%
+8,Nou Barris,FFCC_D,70-75 dB,0.00%
+8,Nou Barris,FFCC_D,75-80 dB,0.00%
+8,Nou Barris,FFCC_D,>=80 dB,0.00%
+9,Sant Andreu,FFCC_D,<40 dB,93.11%
+9,Sant Andreu,FFCC_D,40-45 dB,2.48%
+9,Sant Andreu,FFCC_D,45-50 dB,2.22%
+9,Sant Andreu,FFCC_D,50-55 dB,1.44%
+9,Sant Andreu,FFCC_D,55-60 dB,0.53%
+9,Sant Andreu,FFCC_D,60-65 dB,0.20%
+9,Sant Andreu,FFCC_D,65-70 dB,0.02%
+9,Sant Andreu,FFCC_D,70-75 dB,0.00%
+9,Sant Andreu,FFCC_D,75-80 dB,0.00%
+9,Sant Andreu,FFCC_D,>=80 dB,0.00%
+10,Sant Martí,FFCC_D,<40 dB,91.26%
+10,Sant Martí,FFCC_D,40-45 dB,2.85%
+10,Sant Martí,FFCC_D,45-50 dB,2.14%
+10,Sant Martí,FFCC_D,50-55 dB,2.97%
+10,Sant Martí,FFCC_D,55-60 dB,0.62%
+10,Sant Martí,FFCC_D,60-65 dB,0.10%
+10,Sant Martí,FFCC_D,65-70 dB,0.06%
+10,Sant Martí,FFCC_D,70-75 dB,0.00%
+10,Sant Martí,FFCC_D,75-80 dB,0.00%
+10,Sant Martí,FFCC_D,>=80 dB,0.00%
+1,Ciutat Vella,FFCC_E,<40 dB,99.33%
+1,Ciutat Vella,FFCC_E,40-45 dB,0.45%
+1,Ciutat Vella,FFCC_E,45-50 dB,0.15%
+1,Ciutat Vella,FFCC_E,50-55 dB,0.01%
+1,Ciutat Vella,FFCC_E,55-60 dB,0.06%
+1,Ciutat Vella,FFCC_E,60-65 dB,0.00%
+1,Ciutat Vella,FFCC_E,65-70 dB,0.00%
+1,Ciutat Vella,FFCC_E,70-75 dB,0.00%
+1,Ciutat Vella,FFCC_E,75-80 dB,0.00%
+1,Ciutat Vella,FFCC_E,>=80 dB,0.00%
+2,Eixample,FFCC_E,<40 dB,99.96%
+2,Eixample,FFCC_E,40-45 dB,0.04%
+2,Eixample,FFCC_E,45-50 dB,0.00%
+2,Eixample,FFCC_E,50-55 dB,0.00%
+2,Eixample,FFCC_E,55-60 dB,0.00%
+2,Eixample,FFCC_E,60-65 dB,0.00%
+2,Eixample,FFCC_E,65-70 dB,0.00%
+2,Eixample,FFCC_E,70-75 dB,0.00%
+2,Eixample,FFCC_E,75-80 dB,0.00%
+2,Eixample,FFCC_E,>=80 dB,0.00%
+3,Sants-Montjuïc,FFCC_E,<40 dB,100.00%
+3,Sants-Montjuïc,FFCC_E,40-45 dB,0.00%
+3,Sants-Montjuïc,FFCC_E,45-50 dB,0.00%
+3,Sants-Montjuïc,FFCC_E,50-55 dB,0.00%
+3,Sants-Montjuïc,FFCC_E,55-60 dB,0.00%
+3,Sants-Montjuïc,FFCC_E,60-65 dB,0.00%
+3,Sants-Montjuïc,FFCC_E,65-70 dB,0.00%
+3,Sants-Montjuïc,FFCC_E,70-75 dB,0.00%
+3,Sants-Montjuïc,FFCC_E,75-80 dB,0.00%
+3,Sants-Montjuïc,FFCC_E,>=80 dB,0.00%
+4,Les Corts,FFCC_E,<40 dB,96.98%
+4,Les Corts,FFCC_E,40-45 dB,1.26%
+4,Les Corts,FFCC_E,45-50 dB,0.91%
+4,Les Corts,FFCC_E,50-55 dB,0.49%
+4,Les Corts,FFCC_E,55-60 dB,0.36%
+4,Les Corts,FFCC_E,60-65 dB,0.00%
+4,Les Corts,FFCC_E,65-70 dB,0.00%
+4,Les Corts,FFCC_E,70-75 dB,0.00%
+4,Les Corts,FFCC_E,75-80 dB,0.00%
+4,Les Corts,FFCC_E,>=80 dB,0.00%
+5,Sarrià-Sant Gervasi,FFCC_E,<40 dB,99.00%
+5,Sarrià-Sant Gervasi,FFCC_E,40-45 dB,0.50%
+5,Sarrià-Sant Gervasi,FFCC_E,45-50 dB,0.33%
+5,Sarrià-Sant Gervasi,FFCC_E,50-55 dB,0.09%
+5,Sarrià-Sant Gervasi,FFCC_E,55-60 dB,0.05%
+5,Sarrià-Sant Gervasi,FFCC_E,60-65 dB,0.02%
+5,Sarrià-Sant Gervasi,FFCC_E,65-70 dB,0.01%
+5,Sarrià-Sant Gervasi,FFCC_E,70-75 dB,0.00%
+5,Sarrià-Sant Gervasi,FFCC_E,75-80 dB,0.00%
+5,Sarrià-Sant Gervasi,FFCC_E,>=80 dB,0.00%
+6,Gràcia,FFCC_E,<40 dB,100.00%
+6,Gràcia,FFCC_E,40-45 dB,0.00%
+6,Gràcia,FFCC_E,45-50 dB,0.00%
+6,Gràcia,FFCC_E,50-55 dB,0.00%
+6,Gràcia,FFCC_E,55-60 dB,0.00%
+6,Gràcia,FFCC_E,60-65 dB,0.00%
+6,Gràcia,FFCC_E,65-70 dB,0.00%
+6,Gràcia,FFCC_E,70-75 dB,0.00%
+6,Gràcia,FFCC_E,75-80 dB,0.00%
+6,Gràcia,FFCC_E,>=80 dB,0.00%
+7,Horta-Guinardó,FFCC_E,<40 dB,100.00%
+7,Horta-Guinardó,FFCC_E,40-45 dB,0.00%
+7,Horta-Guinardó,FFCC_E,45-50 dB,0.00%
+7,Horta-Guinardó,FFCC_E,50-55 dB,0.00%
+7,Horta-Guinardó,FFCC_E,55-60 dB,0.00%
+7,Horta-Guinardó,FFCC_E,60-65 dB,0.00%
+7,Horta-Guinardó,FFCC_E,65-70 dB,0.00%
+7,Horta-Guinardó,FFCC_E,70-75 dB,0.00%
+7,Horta-Guinardó,FFCC_E,75-80 dB,0.00%
+7,Horta-Guinardó,FFCC_E,>=80 dB,0.00%
+8,Nou Barris,FFCC_E,<40 dB,98.58%
+8,Nou Barris,FFCC_E,40-45 dB,0.51%
+8,Nou Barris,FFCC_E,45-50 dB,0.41%
+8,Nou Barris,FFCC_E,50-55 dB,0.20%
+8,Nou Barris,FFCC_E,55-60 dB,0.19%
+8,Nou Barris,FFCC_E,60-65 dB,0.11%
+8,Nou Barris,FFCC_E,65-70 dB,0.00%
+8,Nou Barris,FFCC_E,70-75 dB,0.00%
+8,Nou Barris,FFCC_E,75-80 dB,0.00%
+8,Nou Barris,FFCC_E,>=80 dB,0.00%
+9,Sant Andreu,FFCC_E,<40 dB,93.64%
+9,Sant Andreu,FFCC_E,40-45 dB,2.45%
+9,Sant Andreu,FFCC_E,45-50 dB,2.07%
+9,Sant Andreu,FFCC_E,50-55 dB,1.20%
+9,Sant Andreu,FFCC_E,55-60 dB,0.44%
+9,Sant Andreu,FFCC_E,60-65 dB,0.19%
+9,Sant Andreu,FFCC_E,65-70 dB,0.01%
+9,Sant Andreu,FFCC_E,70-75 dB,0.00%
+9,Sant Andreu,FFCC_E,75-80 dB,0.00%
+9,Sant Andreu,FFCC_E,>=80 dB,0.00%
+10,Sant Martí,FFCC_E,<40 dB,91.10%
+10,Sant Martí,FFCC_E,40-45 dB,2.61%
+10,Sant Martí,FFCC_E,45-50 dB,2.25%
+10,Sant Martí,FFCC_E,50-55 dB,2.75%
+10,Sant Martí,FFCC_E,55-60 dB,1.06%
+10,Sant Martí,FFCC_E,60-65 dB,0.20%
+10,Sant Martí,FFCC_E,65-70 dB,0.03%
+10,Sant Martí,FFCC_E,70-75 dB,0.00%
+10,Sant Martí,FFCC_E,75-80 dB,0.00%
+10,Sant Martí,FFCC_E,>=80 dB,0.00%
+1,Ciutat Vella,FFCC_N,<40 dB,99.81%
+1,Ciutat Vella,FFCC_N,40-45 dB,0.13%
+1,Ciutat Vella,FFCC_N,45-50 dB,0.00%
+1,Ciutat Vella,FFCC_N,50-55 dB,0.06%
+1,Ciutat Vella,FFCC_N,55-60 dB,0.00%
+1,Ciutat Vella,FFCC_N,60-65 dB,0.00%
+1,Ciutat Vella,FFCC_N,65-70 dB,0.00%
+1,Ciutat Vella,FFCC_N,70-75 dB,0.00%
+1,Ciutat Vella,FFCC_N,75-80 dB,0.00%
+1,Ciutat Vella,FFCC_N,>=80 dB,0.00%
+2,Eixample,FFCC_N,<40 dB,100.00%
+2,Eixample,FFCC_N,40-45 dB,0.00%
+2,Eixample,FFCC_N,45-50 dB,0.00%
+2,Eixample,FFCC_N,50-55 dB,0.00%
+2,Eixample,FFCC_N,55-60 dB,0.00%
+2,Eixample,FFCC_N,60-65 dB,0.00%
+2,Eixample,FFCC_N,65-70 dB,0.00%
+2,Eixample,FFCC_N,70-75 dB,0.00%
+2,Eixample,FFCC_N,75-80 dB,0.00%
+2,Eixample,FFCC_N,>=80 dB,0.00%
+3,Sants-Montjuïc,FFCC_N,<40 dB,99.99%
+3,Sants-Montjuïc,FFCC_N,40-45 dB,0.01%
+3,Sants-Montjuïc,FFCC_N,45-50 dB,0.00%
+3,Sants-Montjuïc,FFCC_N,50-55 dB,0.00%
+3,Sants-Montjuïc,FFCC_N,55-60 dB,0.00%
+3,Sants-Montjuïc,FFCC_N,60-65 dB,0.00%
+3,Sants-Montjuïc,FFCC_N,65-70 dB,0.00%
+3,Sants-Montjuïc,FFCC_N,70-75 dB,0.00%
+3,Sants-Montjuïc,FFCC_N,75-80 dB,0.00%
+3,Sants-Montjuïc,FFCC_N,>=80 dB,0.00%
+4,Les Corts,FFCC_N,<40 dB,98.21%
+4,Les Corts,FFCC_N,40-45 dB,0.92%
+4,Les Corts,FFCC_N,45-50 dB,0.50%
+4,Les Corts,FFCC_N,50-55 dB,0.37%
+4,Les Corts,FFCC_N,55-60 dB,0.00%
+4,Les Corts,FFCC_N,60-65 dB,0.00%
+4,Les Corts,FFCC_N,65-70 dB,0.00%
+4,Les Corts,FFCC_N,70-75 dB,0.00%
+4,Les Corts,FFCC_N,75-80 dB,0.00%
+4,Les Corts,FFCC_N,>=80 dB,0.00%
+5,Sarrià-Sant Gervasi,FFCC_N,<40 dB,99.39%
+5,Sarrià-Sant Gervasi,FFCC_N,40-45 dB,0.36%
+5,Sarrià-Sant Gervasi,FFCC_N,45-50 dB,0.15%
+5,Sarrià-Sant Gervasi,FFCC_N,50-55 dB,0.05%
+5,Sarrià-Sant Gervasi,FFCC_N,55-60 dB,0.04%
+5,Sarrià-Sant Gervasi,FFCC_N,60-65 dB,0.01%
+5,Sarrià-Sant Gervasi,FFCC_N,65-70 dB,0.00%
+5,Sarrià-Sant Gervasi,FFCC_N,70-75 dB,0.00%
+5,Sarrià-Sant Gervasi,FFCC_N,75-80 dB,0.00%
+5,Sarrià-Sant Gervasi,FFCC_N,>=80 dB,0.00%
+6,Gràcia,FFCC_N,<40 dB,100.00%
+6,Gràcia,FFCC_N,40-45 dB,0.00%
+6,Gràcia,FFCC_N,45-50 dB,0.00%
+6,Gràcia,FFCC_N,50-55 dB,0.00%
+6,Gràcia,FFCC_N,55-60 dB,0.00%
+6,Gràcia,FFCC_N,60-65 dB,0.00%
+6,Gràcia,FFCC_N,65-70 dB,0.00%
+6,Gràcia,FFCC_N,70-75 dB,0.00%
+6,Gràcia,FFCC_N,75-80 dB,0.00%
+6,Gràcia,FFCC_N,>=80 dB,0.00%
+7,Horta-Guinardó,FFCC_N,<40 dB,100.00%
+7,Horta-Guinardó,FFCC_N,40-45 dB,0.00%
+7,Horta-Guinardó,FFCC_N,45-50 dB,0.00%
+7,Horta-Guinardó,FFCC_N,50-55 dB,0.00%
+7,Horta-Guinardó,FFCC_N,55-60 dB,0.00%
+7,Horta-Guinardó,FFCC_N,60-65 dB,0.00%
+7,Horta-Guinardó,FFCC_N,65-70 dB,0.00%
+7,Horta-Guinardó,FFCC_N,70-75 dB,0.00%
+7,Horta-Guinardó,FFCC_N,75-80 dB,0.00%
+7,Horta-Guinardó,FFCC_N,>=80 dB,0.00%
+8,Nou Barris,FFCC_N,<40 dB,99.14%
+8,Nou Barris,FFCC_N,40-45 dB,0.42%
+8,Nou Barris,FFCC_N,45-50 dB,0.15%
+8,Nou Barris,FFCC_N,50-55 dB,0.18%
+8,Nou Barris,FFCC_N,55-60 dB,0.11%
+8,Nou Barris,FFCC_N,60-65 dB,0.00%
+8,Nou Barris,FFCC_N,65-70 dB,0.00%
+8,Nou Barris,FFCC_N,70-75 dB,0.00%
+8,Nou Barris,FFCC_N,75-80 dB,0.00%
+8,Nou Barris,FFCC_N,>=80 dB,0.00%
+9,Sant Andreu,FFCC_N,<40 dB,96.89%
+9,Sant Andreu,FFCC_N,40-45 dB,1.96%
+9,Sant Andreu,FFCC_N,45-50 dB,0.85%
+9,Sant Andreu,FFCC_N,50-55 dB,0.24%
+9,Sant Andreu,FFCC_N,55-60 dB,0.05%
+9,Sant Andreu,FFCC_N,60-65 dB,0.01%
+9,Sant Andreu,FFCC_N,65-70 dB,0.00%
+9,Sant Andreu,FFCC_N,70-75 dB,0.00%
+9,Sant Andreu,FFCC_N,75-80 dB,0.00%
+9,Sant Andreu,FFCC_N,>=80 dB,0.00%
+10,Sant Martí,FFCC_N,<40 dB,94.83%
+10,Sant Martí,FFCC_N,40-45 dB,1.94%
+10,Sant Martí,FFCC_N,45-50 dB,2.69%
+10,Sant Martí,FFCC_N,50-55 dB,0.46%
+10,Sant Martí,FFCC_N,55-60 dB,0.07%
+10,Sant Martí,FFCC_N,60-65 dB,0.01%
+10,Sant Martí,FFCC_N,65-70 dB,0.00%
+10,Sant Martí,FFCC_N,70-75 dB,0.00%
+10,Sant Martí,FFCC_N,75-80 dB,0.00%
+10,Sant Martí,FFCC_N,>=80 dB,0.00%
+1,Ciutat Vella,FFCC_DEN,<40 dB,99.17%
+1,Ciutat Vella,FFCC_DEN,40-45 dB,0.41%
+1,Ciutat Vella,FFCC_DEN,45-50 dB,0.34%
+1,Ciutat Vella,FFCC_DEN,50-55 dB,0.02%
+1,Ciutat Vella,FFCC_DEN,55-60 dB,0.01%
+1,Ciutat Vella,FFCC_DEN,60-65 dB,0.05%
+1,Ciutat Vella,FFCC_DEN,65-70 dB,0.00%
+1,Ciutat Vella,FFCC_DEN,70-75 dB,0.00%
+1,Ciutat Vella,FFCC_DEN,75-80 dB,0.00%
+1,Ciutat Vella,FFCC_DEN,>=80 dB,0.00%
+2,Eixample,FFCC_DEN,<40 dB,99.93%
+2,Eixample,FFCC_DEN,40-45 dB,0.07%
+2,Eixample,FFCC_DEN,45-50 dB,0.00%
+2,Eixample,FFCC_DEN,50-55 dB,0.00%
+2,Eixample,FFCC_DEN,55-60 dB,0.00%
+2,Eixample,FFCC_DEN,60-65 dB,0.00%
+2,Eixample,FFCC_DEN,65-70 dB,0.00%
+2,Eixample,FFCC_DEN,70-75 dB,0.00%
+2,Eixample,FFCC_DEN,75-80 dB,0.00%
+2,Eixample,FFCC_DEN,>=80 dB,0.00%
+3,Sants-Montjuïc,FFCC_DEN,<40 dB,99.97%
+3,Sants-Montjuïc,FFCC_DEN,40-45 dB,0.02%
+3,Sants-Montjuïc,FFCC_DEN,45-50 dB,0.01%
+3,Sants-Montjuïc,FFCC_DEN,50-55 dB,0.00%
+3,Sants-Montjuïc,FFCC_DEN,55-60 dB,0.00%
+3,Sants-Montjuïc,FFCC_DEN,60-65 dB,0.00%
+3,Sants-Montjuïc,FFCC_DEN,65-70 dB,0.00%
+3,Sants-Montjuïc,FFCC_DEN,70-75 dB,0.00%
+3,Sants-Montjuïc,FFCC_DEN,75-80 dB,0.00%
+3,Sants-Montjuïc,FFCC_DEN,>=80 dB,0.00%
+4,Les Corts,FFCC_DEN,<40 dB,95.50%
+4,Les Corts,FFCC_DEN,40-45 dB,2.17%
+4,Les Corts,FFCC_DEN,45-50 dB,0.90%
+4,Les Corts,FFCC_DEN,50-55 dB,0.79%
+4,Les Corts,FFCC_DEN,55-60 dB,0.38%
+4,Les Corts,FFCC_DEN,60-65 dB,0.26%
+4,Les Corts,FFCC_DEN,65-70 dB,0.00%
+4,Les Corts,FFCC_DEN,70-75 dB,0.00%
+4,Les Corts,FFCC_DEN,75-80 dB,0.00%
+4,Les Corts,FFCC_DEN,>=80 dB,0.00%
+5,Sarrià-Sant Gervasi,FFCC_DEN,<40 dB,98.32%
+5,Sarrià-Sant Gervasi,FFCC_DEN,40-45 dB,0.82%
+5,Sarrià-Sant Gervasi,FFCC_DEN,45-50 dB,0.43%
+5,Sarrià-Sant Gervasi,FFCC_DEN,50-55 dB,0.28%
+5,Sarrià-Sant Gervasi,FFCC_DEN,55-60 dB,0.07%
+5,Sarrià-Sant Gervasi,FFCC_DEN,60-65 dB,0.05%
+5,Sarrià-Sant Gervasi,FFCC_DEN,65-70 dB,0.02%
+5,Sarrià-Sant Gervasi,FFCC_DEN,70-75 dB,0.01%
+5,Sarrià-Sant Gervasi,FFCC_DEN,75-80 dB,0.00%
+5,Sarrià-Sant Gervasi,FFCC_DEN,>=80 dB,0.00%
+6,Gràcia,FFCC_DEN,<40 dB,100.00%
+6,Gràcia,FFCC_DEN,40-45 dB,0.00%
+6,Gràcia,FFCC_DEN,45-50 dB,0.00%
+6,Gràcia,FFCC_DEN,50-55 dB,0.00%
+6,Gràcia,FFCC_DEN,55-60 dB,0.00%
+6,Gràcia,FFCC_DEN,60-65 dB,0.00%
+6,Gràcia,FFCC_DEN,65-70 dB,0.00%
+6,Gràcia,FFCC_DEN,70-75 dB,0.00%
+6,Gràcia,FFCC_DEN,75-80 dB,0.00%
+6,Gràcia,FFCC_DEN,>=80 dB,0.00%
+7,Horta-Guinardó,FFCC_DEN,<40 dB,100.00%
+7,Horta-Guinardó,FFCC_DEN,40-45 dB,0.00%
+7,Horta-Guinardó,FFCC_DEN,45-50 dB,0.00%
+7,Horta-Guinardó,FFCC_DEN,50-55 dB,0.00%
+7,Horta-Guinardó,FFCC_DEN,55-60 dB,0.00%
+7,Horta-Guinardó,FFCC_DEN,60-65 dB,0.00%
+7,Horta-Guinardó,FFCC_DEN,65-70 dB,0.00%
+7,Horta-Guinardó,FFCC_DEN,70-75 dB,0.00%
+7,Horta-Guinardó,FFCC_DEN,75-80 dB,0.00%
+7,Horta-Guinardó,FFCC_DEN,>=80 dB,0.00%
+8,Nou Barris,FFCC_DEN,<40 dB,98.17%
+8,Nou Barris,FFCC_DEN,40-45 dB,0.66%
+8,Nou Barris,FFCC_DEN,45-50 dB,0.44%
+8,Nou Barris,FFCC_DEN,50-55 dB,0.36%
+8,Nou Barris,FFCC_DEN,55-60 dB,0.12%
+8,Nou Barris,FFCC_DEN,60-65 dB,0.17%
+8,Nou Barris,FFCC_DEN,65-70 dB,0.08%
+8,Nou Barris,FFCC_DEN,70-75 dB,0.00%
+8,Nou Barris,FFCC_DEN,75-80 dB,0.00%
+8,Nou Barris,FFCC_DEN,>=80 dB,0.00%
+9,Sant Andreu,FFCC_DEN,<40 dB,92.34%
+9,Sant Andreu,FFCC_DEN,40-45 dB,2.66%
+9,Sant Andreu,FFCC_DEN,45-50 dB,2.31%
+9,Sant Andreu,FFCC_DEN,50-55 dB,1.72%
+9,Sant Andreu,FFCC_DEN,55-60 dB,0.72%
+9,Sant Andreu,FFCC_DEN,60-65 dB,0.23%
+9,Sant Andreu,FFCC_DEN,65-70 dB,0.02%
+9,Sant Andreu,FFCC_DEN,70-75 dB,0.00%
+9,Sant Andreu,FFCC_DEN,75-80 dB,0.00%
+9,Sant Andreu,FFCC_DEN,>=80 dB,0.00%
+10,Sant Martí,FFCC_DEN,<40 dB,90.08%
+10,Sant Martí,FFCC_DEN,40-45 dB,2.83%
+10,Sant Martí,FFCC_DEN,45-50 dB,2.51%
+10,Sant Martí,FFCC_DEN,50-55 dB,2.09%
+10,Sant Martí,FFCC_DEN,55-60 dB,2.16%
+10,Sant Martí,FFCC_DEN,60-65 dB,0.26%
+10,Sant Martí,FFCC_DEN,65-70 dB,0.06%
+10,Sant Martí,FFCC_DEN,70-75 dB,0.01%
+10,Sant Martí,FFCC_DEN,75-80 dB,0.00%
+10,Sant Martí,FFCC_DEN,>=80 dB,0.00%
+1,Ciutat Vella,INDUST_D,<40 dB,100.00%
+1,Ciutat Vella,INDUST_D,40-45 dB,0.00%
+1,Ciutat Vella,INDUST_D,45-50 dB,0.00%
+1,Ciutat Vella,INDUST_D,50-55 dB,0.00%
+1,Ciutat Vella,INDUST_D,55-60 dB,0.00%
+1,Ciutat Vella,INDUST_D,60-65 dB,0.00%
+1,Ciutat Vella,INDUST_D,65-70 dB,0.00%
+1,Ciutat Vella,INDUST_D,70-75 dB,0.00%
+1,Ciutat Vella,INDUST_D,75-80 dB,0.00%
+1,Ciutat Vella,INDUST_D,>=80 dB,0.00%
+2,Eixample,INDUST_D,<40 dB,100.00%
+2,Eixample,INDUST_D,40-45 dB,0.00%
+2,Eixample,INDUST_D,45-50 dB,0.00%
+2,Eixample,INDUST_D,50-55 dB,0.00%
+2,Eixample,INDUST_D,55-60 dB,0.00%
+2,Eixample,INDUST_D,60-65 dB,0.00%
+2,Eixample,INDUST_D,65-70 dB,0.00%
+2,Eixample,INDUST_D,70-75 dB,0.00%
+2,Eixample,INDUST_D,75-80 dB,0.00%
+2,Eixample,INDUST_D,>=80 dB,0.00%
+3,Sants-Montjuïc,INDUST_D,<40 dB,99.96%
+3,Sants-Montjuïc,INDUST_D,40-45 dB,0.04%
+3,Sants-Montjuïc,INDUST_D,45-50 dB,0.00%
+3,Sants-Montjuïc,INDUST_D,50-55 dB,0.00%
+3,Sants-Montjuïc,INDUST_D,55-60 dB,0.00%
+3,Sants-Montjuïc,INDUST_D,60-65 dB,0.00%
+3,Sants-Montjuïc,INDUST_D,65-70 dB,0.00%
+3,Sants-Montjuïc,INDUST_D,70-75 dB,0.00%
+3,Sants-Montjuïc,INDUST_D,75-80 dB,0.00%
+3,Sants-Montjuïc,INDUST_D,>=80 dB,0.00%
+4,Les Corts,INDUST_D,<40 dB,100.00%
+4,Les Corts,INDUST_D,40-45 dB,0.00%
+4,Les Corts,INDUST_D,45-50 dB,0.00%
+4,Les Corts,INDUST_D,50-55 dB,0.00%
+4,Les Corts,INDUST_D,55-60 dB,0.00%
+4,Les Corts,INDUST_D,60-65 dB,0.00%
+4,Les Corts,INDUST_D,65-70 dB,0.00%
+4,Les Corts,INDUST_D,70-75 dB,0.00%
+4,Les Corts,INDUST_D,75-80 dB,0.00%
+4,Les Corts,INDUST_D,>=80 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_D,<40 dB,100.00%
+5,Sarrià-Sant Gervasi,INDUST_D,40-45 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_D,45-50 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_D,50-55 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_D,55-60 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_D,60-65 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_D,65-70 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_D,70-75 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_D,75-80 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_D,>=80 dB,0.00%
+6,Gràcia,INDUST_D,<40 dB,100.00%
+6,Gràcia,INDUST_D,40-45 dB,0.00%
+6,Gràcia,INDUST_D,45-50 dB,0.00%
+6,Gràcia,INDUST_D,50-55 dB,0.00%
+6,Gràcia,INDUST_D,55-60 dB,0.00%
+6,Gràcia,INDUST_D,60-65 dB,0.00%
+6,Gràcia,INDUST_D,65-70 dB,0.00%
+6,Gràcia,INDUST_D,70-75 dB,0.00%
+6,Gràcia,INDUST_D,75-80 dB,0.00%
+6,Gràcia,INDUST_D,>=80 dB,0.00%
+7,Horta-Guinardó,INDUST_D,<40 dB,100.00%
+7,Horta-Guinardó,INDUST_D,40-45 dB,0.00%
+7,Horta-Guinardó,INDUST_D,45-50 dB,0.00%
+7,Horta-Guinardó,INDUST_D,50-55 dB,0.00%
+7,Horta-Guinardó,INDUST_D,55-60 dB,0.00%
+7,Horta-Guinardó,INDUST_D,60-65 dB,0.00%
+7,Horta-Guinardó,INDUST_D,65-70 dB,0.00%
+7,Horta-Guinardó,INDUST_D,70-75 dB,0.00%
+7,Horta-Guinardó,INDUST_D,75-80 dB,0.00%
+7,Horta-Guinardó,INDUST_D,>=80 dB,0.00%
+8,Nou Barris,INDUST_D,<40 dB,100.00%
+8,Nou Barris,INDUST_D,40-45 dB,0.00%
+8,Nou Barris,INDUST_D,45-50 dB,0.00%
+8,Nou Barris,INDUST_D,50-55 dB,0.00%
+8,Nou Barris,INDUST_D,55-60 dB,0.00%
+8,Nou Barris,INDUST_D,60-65 dB,0.00%
+8,Nou Barris,INDUST_D,65-70 dB,0.00%
+8,Nou Barris,INDUST_D,70-75 dB,0.00%
+8,Nou Barris,INDUST_D,75-80 dB,0.00%
+8,Nou Barris,INDUST_D,>=80 dB,0.00%
+9,Sant Andreu,INDUST_D,<40 dB,99.06%
+9,Sant Andreu,INDUST_D,40-45 dB,0.66%
+9,Sant Andreu,INDUST_D,45-50 dB,0.26%
+9,Sant Andreu,INDUST_D,50-55 dB,0.02%
+9,Sant Andreu,INDUST_D,55-60 dB,0.00%
+9,Sant Andreu,INDUST_D,60-65 dB,0.00%
+9,Sant Andreu,INDUST_D,65-70 dB,0.00%
+9,Sant Andreu,INDUST_D,70-75 dB,0.00%
+9,Sant Andreu,INDUST_D,75-80 dB,0.00%
+9,Sant Andreu,INDUST_D,>=80 dB,0.00%
+10,Sant Martí,INDUST_D,<40 dB,98.08%
+10,Sant Martí,INDUST_D,40-45 dB,1.41%
+10,Sant Martí,INDUST_D,45-50 dB,0.26%
+10,Sant Martí,INDUST_D,50-55 dB,0.20%
+10,Sant Martí,INDUST_D,55-60 dB,0.05%
+10,Sant Martí,INDUST_D,60-65 dB,0.00%
+10,Sant Martí,INDUST_D,65-70 dB,0.00%
+10,Sant Martí,INDUST_D,70-75 dB,0.00%
+10,Sant Martí,INDUST_D,75-80 dB,0.00%
+10,Sant Martí,INDUST_D,>=80 dB,0.00%
+1,Ciutat Vella,INDUST_E,<40 dB,100.00%
+1,Ciutat Vella,INDUST_E,40-45 dB,0.00%
+1,Ciutat Vella,INDUST_E,45-50 dB,0.00%
+1,Ciutat Vella,INDUST_E,50-55 dB,0.00%
+1,Ciutat Vella,INDUST_E,55-60 dB,0.00%
+1,Ciutat Vella,INDUST_E,60-65 dB,0.00%
+1,Ciutat Vella,INDUST_E,65-70 dB,0.00%
+1,Ciutat Vella,INDUST_E,70-75 dB,0.00%
+1,Ciutat Vella,INDUST_E,75-80 dB,0.00%
+1,Ciutat Vella,INDUST_E,>=80 dB,0.00%
+2,Eixample,INDUST_E,<40 dB,100.00%
+2,Eixample,INDUST_E,40-45 dB,0.00%
+2,Eixample,INDUST_E,45-50 dB,0.00%
+2,Eixample,INDUST_E,50-55 dB,0.00%
+2,Eixample,INDUST_E,55-60 dB,0.00%
+2,Eixample,INDUST_E,60-65 dB,0.00%
+2,Eixample,INDUST_E,65-70 dB,0.00%
+2,Eixample,INDUST_E,70-75 dB,0.00%
+2,Eixample,INDUST_E,75-80 dB,0.00%
+2,Eixample,INDUST_E,>=80 dB,0.00%
+3,Sants-Montjuïc,INDUST_E,<40 dB,100.00%
+3,Sants-Montjuïc,INDUST_E,40-45 dB,0.00%
+3,Sants-Montjuïc,INDUST_E,45-50 dB,0.00%
+3,Sants-Montjuïc,INDUST_E,50-55 dB,0.00%
+3,Sants-Montjuïc,INDUST_E,55-60 dB,0.00%
+3,Sants-Montjuïc,INDUST_E,60-65 dB,0.00%
+3,Sants-Montjuïc,INDUST_E,65-70 dB,0.00%
+3,Sants-Montjuïc,INDUST_E,70-75 dB,0.00%
+3,Sants-Montjuïc,INDUST_E,75-80 dB,0.00%
+3,Sants-Montjuïc,INDUST_E,>=80 dB,0.00%
+4,Les Corts,INDUST_E,<40 dB,100.00%
+4,Les Corts,INDUST_E,40-45 dB,0.00%
+4,Les Corts,INDUST_E,45-50 dB,0.00%
+4,Les Corts,INDUST_E,50-55 dB,0.00%
+4,Les Corts,INDUST_E,55-60 dB,0.00%
+4,Les Corts,INDUST_E,60-65 dB,0.00%
+4,Les Corts,INDUST_E,65-70 dB,0.00%
+4,Les Corts,INDUST_E,70-75 dB,0.00%
+4,Les Corts,INDUST_E,75-80 dB,0.00%
+4,Les Corts,INDUST_E,>=80 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_E,<40 dB,100.00%
+5,Sarrià-Sant Gervasi,INDUST_E,40-45 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_E,45-50 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_E,50-55 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_E,55-60 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_E,60-65 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_E,65-70 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_E,70-75 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_E,75-80 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_E,>=80 dB,0.00%
+6,Gràcia,INDUST_E,<40 dB,100.00%
+6,Gràcia,INDUST_E,40-45 dB,0.00%
+6,Gràcia,INDUST_E,45-50 dB,0.00%
+6,Gràcia,INDUST_E,50-55 dB,0.00%
+6,Gràcia,INDUST_E,55-60 dB,0.00%
+6,Gràcia,INDUST_E,60-65 dB,0.00%
+6,Gràcia,INDUST_E,65-70 dB,0.00%
+6,Gràcia,INDUST_E,70-75 dB,0.00%
+6,Gràcia,INDUST_E,75-80 dB,0.00%
+6,Gràcia,INDUST_E,>=80 dB,0.00%
+7,Horta-Guinardó,INDUST_E,<40 dB,100.00%
+7,Horta-Guinardó,INDUST_E,40-45 dB,0.00%
+7,Horta-Guinardó,INDUST_E,45-50 dB,0.00%
+7,Horta-Guinardó,INDUST_E,50-55 dB,0.00%
+7,Horta-Guinardó,INDUST_E,55-60 dB,0.00%
+7,Horta-Guinardó,INDUST_E,60-65 dB,0.00%
+7,Horta-Guinardó,INDUST_E,65-70 dB,0.00%
+7,Horta-Guinardó,INDUST_E,70-75 dB,0.00%
+7,Horta-Guinardó,INDUST_E,75-80 dB,0.00%
+7,Horta-Guinardó,INDUST_E,>=80 dB,0.00%
+8,Nou Barris,INDUST_E,<40 dB,100.00%
+8,Nou Barris,INDUST_E,40-45 dB,0.00%
+8,Nou Barris,INDUST_E,45-50 dB,0.00%
+8,Nou Barris,INDUST_E,50-55 dB,0.00%
+8,Nou Barris,INDUST_E,55-60 dB,0.00%
+8,Nou Barris,INDUST_E,60-65 dB,0.00%
+8,Nou Barris,INDUST_E,65-70 dB,0.00%
+8,Nou Barris,INDUST_E,70-75 dB,0.00%
+8,Nou Barris,INDUST_E,75-80 dB,0.00%
+8,Nou Barris,INDUST_E,>=80 dB,0.00%
+9,Sant Andreu,INDUST_E,<40 dB,99.84%
+9,Sant Andreu,INDUST_E,40-45 dB,0.16%
+9,Sant Andreu,INDUST_E,45-50 dB,0.00%
+9,Sant Andreu,INDUST_E,50-55 dB,0.00%
+9,Sant Andreu,INDUST_E,55-60 dB,0.00%
+9,Sant Andreu,INDUST_E,60-65 dB,0.00%
+9,Sant Andreu,INDUST_E,65-70 dB,0.00%
+9,Sant Andreu,INDUST_E,70-75 dB,0.00%
+9,Sant Andreu,INDUST_E,75-80 dB,0.00%
+9,Sant Andreu,INDUST_E,>=80 dB,0.00%
+10,Sant Martí,INDUST_E,<40 dB,99.90%
+10,Sant Martí,INDUST_E,40-45 dB,0.10%
+10,Sant Martí,INDUST_E,45-50 dB,0.00%
+10,Sant Martí,INDUST_E,50-55 dB,0.00%
+10,Sant Martí,INDUST_E,55-60 dB,0.00%
+10,Sant Martí,INDUST_E,60-65 dB,0.00%
+10,Sant Martí,INDUST_E,65-70 dB,0.00%
+10,Sant Martí,INDUST_E,70-75 dB,0.00%
+10,Sant Martí,INDUST_E,75-80 dB,0.00%
+10,Sant Martí,INDUST_E,>=80 dB,0.00%
+1,Ciutat Vella,INDUST_N,<40 dB,100.00%
+1,Ciutat Vella,INDUST_N,40-45 dB,0.00%
+1,Ciutat Vella,INDUST_N,45-50 dB,0.00%
+1,Ciutat Vella,INDUST_N,50-55 dB,0.00%
+1,Ciutat Vella,INDUST_N,55-60 dB,0.00%
+1,Ciutat Vella,INDUST_N,60-65 dB,0.00%
+1,Ciutat Vella,INDUST_N,65-70 dB,0.00%
+1,Ciutat Vella,INDUST_N,70-75 dB,0.00%
+1,Ciutat Vella,INDUST_N,75-80 dB,0.00%
+1,Ciutat Vella,INDUST_N,>=80 dB,0.00%
+2,Eixample,INDUST_N,<40 dB,100.00%
+2,Eixample,INDUST_N,40-45 dB,0.00%
+2,Eixample,INDUST_N,45-50 dB,0.00%
+2,Eixample,INDUST_N,50-55 dB,0.00%
+2,Eixample,INDUST_N,55-60 dB,0.00%
+2,Eixample,INDUST_N,60-65 dB,0.00%
+2,Eixample,INDUST_N,65-70 dB,0.00%
+2,Eixample,INDUST_N,70-75 dB,0.00%
+2,Eixample,INDUST_N,75-80 dB,0.00%
+2,Eixample,INDUST_N,>=80 dB,0.00%
+3,Sants-Montjuïc,INDUST_N,<40 dB,100.00%
+3,Sants-Montjuïc,INDUST_N,40-45 dB,0.00%
+3,Sants-Montjuïc,INDUST_N,45-50 dB,0.00%
+3,Sants-Montjuïc,INDUST_N,50-55 dB,0.00%
+3,Sants-Montjuïc,INDUST_N,55-60 dB,0.00%
+3,Sants-Montjuïc,INDUST_N,60-65 dB,0.00%
+3,Sants-Montjuïc,INDUST_N,65-70 dB,0.00%
+3,Sants-Montjuïc,INDUST_N,70-75 dB,0.00%
+3,Sants-Montjuïc,INDUST_N,75-80 dB,0.00%
+3,Sants-Montjuïc,INDUST_N,>=80 dB,0.00%
+4,Les Corts,INDUST_N,<40 dB,100.00%
+4,Les Corts,INDUST_N,40-45 dB,0.00%
+4,Les Corts,INDUST_N,45-50 dB,0.00%
+4,Les Corts,INDUST_N,50-55 dB,0.00%
+4,Les Corts,INDUST_N,55-60 dB,0.00%
+4,Les Corts,INDUST_N,60-65 dB,0.00%
+4,Les Corts,INDUST_N,65-70 dB,0.00%
+4,Les Corts,INDUST_N,70-75 dB,0.00%
+4,Les Corts,INDUST_N,75-80 dB,0.00%
+4,Les Corts,INDUST_N,>=80 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_N,<40 dB,100.00%
+5,Sarrià-Sant Gervasi,INDUST_N,40-45 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_N,45-50 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_N,50-55 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_N,55-60 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_N,60-65 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_N,65-70 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_N,70-75 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_N,75-80 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_N,>=80 dB,0.00%
+6,Gràcia,INDUST_N,<40 dB,100.00%
+6,Gràcia,INDUST_N,40-45 dB,0.00%
+6,Gràcia,INDUST_N,45-50 dB,0.00%
+6,Gràcia,INDUST_N,50-55 dB,0.00%
+6,Gràcia,INDUST_N,55-60 dB,0.00%
+6,Gràcia,INDUST_N,60-65 dB,0.00%
+6,Gràcia,INDUST_N,65-70 dB,0.00%
+6,Gràcia,INDUST_N,70-75 dB,0.00%
+6,Gràcia,INDUST_N,75-80 dB,0.00%
+6,Gràcia,INDUST_N,>=80 dB,0.00%
+7,Horta-Guinardó,INDUST_N,<40 dB,100.00%
+7,Horta-Guinardó,INDUST_N,40-45 dB,0.00%
+7,Horta-Guinardó,INDUST_N,45-50 dB,0.00%
+7,Horta-Guinardó,INDUST_N,50-55 dB,0.00%
+7,Horta-Guinardó,INDUST_N,55-60 dB,0.00%
+7,Horta-Guinardó,INDUST_N,60-65 dB,0.00%
+7,Horta-Guinardó,INDUST_N,65-70 dB,0.00%
+7,Horta-Guinardó,INDUST_N,70-75 dB,0.00%
+7,Horta-Guinardó,INDUST_N,75-80 dB,0.00%
+7,Horta-Guinardó,INDUST_N,>=80 dB,0.00%
+8,Nou Barris,INDUST_N,<40 dB,100.00%
+8,Nou Barris,INDUST_N,40-45 dB,0.00%
+8,Nou Barris,INDUST_N,45-50 dB,0.00%
+8,Nou Barris,INDUST_N,50-55 dB,0.00%
+8,Nou Barris,INDUST_N,55-60 dB,0.00%
+8,Nou Barris,INDUST_N,60-65 dB,0.00%
+8,Nou Barris,INDUST_N,65-70 dB,0.00%
+8,Nou Barris,INDUST_N,70-75 dB,0.00%
+8,Nou Barris,INDUST_N,75-80 dB,0.00%
+8,Nou Barris,INDUST_N,>=80 dB,0.00%
+9,Sant Andreu,INDUST_N,<40 dB,99.84%
+9,Sant Andreu,INDUST_N,40-45 dB,0.16%
+9,Sant Andreu,INDUST_N,45-50 dB,0.00%
+9,Sant Andreu,INDUST_N,50-55 dB,0.00%
+9,Sant Andreu,INDUST_N,55-60 dB,0.00%
+9,Sant Andreu,INDUST_N,60-65 dB,0.00%
+9,Sant Andreu,INDUST_N,65-70 dB,0.00%
+9,Sant Andreu,INDUST_N,70-75 dB,0.00%
+9,Sant Andreu,INDUST_N,75-80 dB,0.00%
+9,Sant Andreu,INDUST_N,>=80 dB,0.00%
+10,Sant Martí,INDUST_N,<40 dB,99.90%
+10,Sant Martí,INDUST_N,40-45 dB,0.10%
+10,Sant Martí,INDUST_N,45-50 dB,0.00%
+10,Sant Martí,INDUST_N,50-55 dB,0.00%
+10,Sant Martí,INDUST_N,55-60 dB,0.00%
+10,Sant Martí,INDUST_N,60-65 dB,0.00%
+10,Sant Martí,INDUST_N,65-70 dB,0.00%
+10,Sant Martí,INDUST_N,70-75 dB,0.00%
+10,Sant Martí,INDUST_N,75-80 dB,0.00%
+10,Sant Martí,INDUST_N,>=80 dB,0.00%
+1,Ciutat Vella,INDUST_DEN,<40 dB,100.00%
+1,Ciutat Vella,INDUST_DEN,40-45 dB,0.00%
+1,Ciutat Vella,INDUST_DEN,45-50 dB,0.00%
+1,Ciutat Vella,INDUST_DEN,50-55 dB,0.00%
+1,Ciutat Vella,INDUST_DEN,55-60 dB,0.00%
+1,Ciutat Vella,INDUST_DEN,60-65 dB,0.00%
+1,Ciutat Vella,INDUST_DEN,65-70 dB,0.00%
+1,Ciutat Vella,INDUST_DEN,70-75 dB,0.00%
+1,Ciutat Vella,INDUST_DEN,75-80 dB,0.00%
+1,Ciutat Vella,INDUST_DEN,>=80 dB,0.00%
+2,Eixample,INDUST_DEN,<40 dB,100.00%
+2,Eixample,INDUST_DEN,40-45 dB,0.00%
+2,Eixample,INDUST_DEN,45-50 dB,0.00%
+2,Eixample,INDUST_DEN,50-55 dB,0.00%
+2,Eixample,INDUST_DEN,55-60 dB,0.00%
+2,Eixample,INDUST_DEN,60-65 dB,0.00%
+2,Eixample,INDUST_DEN,65-70 dB,0.00%
+2,Eixample,INDUST_DEN,70-75 dB,0.00%
+2,Eixample,INDUST_DEN,75-80 dB,0.00%
+2,Eixample,INDUST_DEN,>=80 dB,0.00%
+3,Sants-Montjuïc,INDUST_DEN,<40 dB,99.94%
+3,Sants-Montjuïc,INDUST_DEN,40-45 dB,0.03%
+3,Sants-Montjuïc,INDUST_DEN,45-50 dB,0.03%
+3,Sants-Montjuïc,INDUST_DEN,50-55 dB,0.00%
+3,Sants-Montjuïc,INDUST_DEN,55-60 dB,0.00%
+3,Sants-Montjuïc,INDUST_DEN,60-65 dB,0.00%
+3,Sants-Montjuïc,INDUST_DEN,65-70 dB,0.00%
+3,Sants-Montjuïc,INDUST_DEN,70-75 dB,0.00%
+3,Sants-Montjuïc,INDUST_DEN,75-80 dB,0.00%
+3,Sants-Montjuïc,INDUST_DEN,>=80 dB,0.00%
+4,Les Corts,INDUST_DEN,<40 dB,100.00%
+4,Les Corts,INDUST_DEN,40-45 dB,0.00%
+4,Les Corts,INDUST_DEN,45-50 dB,0.00%
+4,Les Corts,INDUST_DEN,50-55 dB,0.00%
+4,Les Corts,INDUST_DEN,55-60 dB,0.00%
+4,Les Corts,INDUST_DEN,60-65 dB,0.00%
+4,Les Corts,INDUST_DEN,65-70 dB,0.00%
+4,Les Corts,INDUST_DEN,70-75 dB,0.00%
+4,Les Corts,INDUST_DEN,75-80 dB,0.00%
+4,Les Corts,INDUST_DEN,>=80 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_DEN,<40 dB,100.00%
+5,Sarrià-Sant Gervasi,INDUST_DEN,40-45 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_DEN,45-50 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_DEN,50-55 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_DEN,55-60 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_DEN,60-65 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_DEN,65-70 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_DEN,70-75 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_DEN,75-80 dB,0.00%
+5,Sarrià-Sant Gervasi,INDUST_DEN,>=80 dB,0.00%
+6,Gràcia,INDUST_DEN,<40 dB,100.00%
+6,Gràcia,INDUST_DEN,40-45 dB,0.00%
+6,Gràcia,INDUST_DEN,45-50 dB,0.00%
+6,Gràcia,INDUST_DEN,50-55 dB,0.00%
+6,Gràcia,INDUST_DEN,55-60 dB,0.00%
+6,Gràcia,INDUST_DEN,60-65 dB,0.00%
+6,Gràcia,INDUST_DEN,65-70 dB,0.00%
+6,Gràcia,INDUST_DEN,70-75 dB,0.00%
+6,Gràcia,INDUST_DEN,75-80 dB,0.00%
+6,Gràcia,INDUST_DEN,>=80 dB,0.00%
+7,Horta-Guinardó,INDUST_DEN,<40 dB,100.00%
+7,Horta-Guinardó,INDUST_DEN,40-45 dB,0.00%
+7,Horta-Guinardó,INDUST_DEN,45-50 dB,0.00%
+7,Horta-Guinardó,INDUST_DEN,50-55 dB,0.00%
+7,Horta-Guinardó,INDUST_DEN,55-60 dB,0.00%
+7,Horta-Guinardó,INDUST_DEN,60-65 dB,0.00%
+7,Horta-Guinardó,INDUST_DEN,65-70 dB,0.00%
+7,Horta-Guinardó,INDUST_DEN,70-75 dB,0.00%
+7,Horta-Guinardó,INDUST_DEN,75-80 dB,0.00%
+7,Horta-Guinardó,INDUST_DEN,>=80 dB,0.00%
+8,Nou Barris,INDUST_DEN,<40 dB,100.00%
+8,Nou Barris,INDUST_DEN,40-45 dB,0.00%
+8,Nou Barris,INDUST_DEN,45-50 dB,0.00%
+8,Nou Barris,INDUST_DEN,50-55 dB,0.00%
+8,Nou Barris,INDUST_DEN,55-60 dB,0.00%
+8,Nou Barris,INDUST_DEN,60-65 dB,0.00%
+8,Nou Barris,INDUST_DEN,65-70 dB,0.00%
+8,Nou Barris,INDUST_DEN,70-75 dB,0.00%
+8,Nou Barris,INDUST_DEN,75-80 dB,0.00%
+8,Nou Barris,INDUST_DEN,>=80 dB,0.00%
+9,Sant Andreu,INDUST_DEN,<40 dB,98.70%
+9,Sant Andreu,INDUST_DEN,40-45 dB,0.89%
+9,Sant Andreu,INDUST_DEN,45-50 dB,0.38%
+9,Sant Andreu,INDUST_DEN,50-55 dB,0.03%
+9,Sant Andreu,INDUST_DEN,55-60 dB,0.00%
+9,Sant Andreu,INDUST_DEN,60-65 dB,0.00%
+9,Sant Andreu,INDUST_DEN,65-70 dB,0.00%
+9,Sant Andreu,INDUST_DEN,70-75 dB,0.00%
+9,Sant Andreu,INDUST_DEN,75-80 dB,0.00%
+9,Sant Andreu,INDUST_DEN,>=80 dB,0.00%
+10,Sant Martí,INDUST_DEN,<40 dB,98.85%
+10,Sant Martí,INDUST_DEN,40-45 dB,0.72%
+10,Sant Martí,INDUST_DEN,45-50 dB,0.23%
+10,Sant Martí,INDUST_DEN,50-55 dB,0.20%
+10,Sant Martí,INDUST_DEN,55-60 dB,0.00%
+10,Sant Martí,INDUST_DEN,60-65 dB,0.00%
+10,Sant Martí,INDUST_DEN,65-70 dB,0.00%
+10,Sant Martí,INDUST_DEN,70-75 dB,0.00%
+10,Sant Martí,INDUST_DEN,75-80 dB,0.00%
+10,Sant Martí,INDUST_DEN,>=80 dB,0.00%
+1,Ciutat Vella,VIANANTS_D,<40 dB,53.27%
+1,Ciutat Vella,VIANANTS_D,40-45 dB,12.63%
+1,Ciutat Vella,VIANANTS_D,45-50 dB,13.05%
+1,Ciutat Vella,VIANANTS_D,50-55 dB,12.07%
+1,Ciutat Vella,VIANANTS_D,55-60 dB,8.16%
+1,Ciutat Vella,VIANANTS_D,60-65 dB,0.82%
+1,Ciutat Vella,VIANANTS_D,65-70 dB,0.00%
+1,Ciutat Vella,VIANANTS_D,70-75 dB,0.00%
+1,Ciutat Vella,VIANANTS_D,75-80 dB,0.00%
+1,Ciutat Vella,VIANANTS_D,>=80 dB,0.00%
+2,Eixample,VIANANTS_D,<40 dB,94.65%
+2,Eixample,VIANANTS_D,40-45 dB,1.87%
+2,Eixample,VIANANTS_D,45-50 dB,1.39%
+2,Eixample,VIANANTS_D,50-55 dB,1.07%
+2,Eixample,VIANANTS_D,55-60 dB,0.91%
+2,Eixample,VIANANTS_D,60-65 dB,0.11%
+2,Eixample,VIANANTS_D,65-70 dB,0.00%
+2,Eixample,VIANANTS_D,70-75 dB,0.00%
+2,Eixample,VIANANTS_D,75-80 dB,0.00%
+2,Eixample,VIANANTS_D,>=80 dB,0.00%
+3,Sants-Montjuïc,VIANANTS_D,<40 dB,91.25%
+3,Sants-Montjuïc,VIANANTS_D,40-45 dB,3.41%
+3,Sants-Montjuïc,VIANANTS_D,45-50 dB,3.82%
+3,Sants-Montjuïc,VIANANTS_D,50-55 dB,1.36%
+3,Sants-Montjuïc,VIANANTS_D,55-60 dB,0.16%
+3,Sants-Montjuïc,VIANANTS_D,60-65 dB,0.00%
+3,Sants-Montjuïc,VIANANTS_D,65-70 dB,0.00%
+3,Sants-Montjuïc,VIANANTS_D,70-75 dB,0.00%
+3,Sants-Montjuïc,VIANANTS_D,75-80 dB,0.00%
+3,Sants-Montjuïc,VIANANTS_D,>=80 dB,0.00%
+4,Les Corts,VIANANTS_D,<40 dB,96.47%
+4,Les Corts,VIANANTS_D,40-45 dB,0.50%
+4,Les Corts,VIANANTS_D,45-50 dB,2.98%
+4,Les Corts,VIANANTS_D,50-55 dB,0.05%
+4,Les Corts,VIANANTS_D,55-60 dB,0.00%
+4,Les Corts,VIANANTS_D,60-65 dB,0.00%
+4,Les Corts,VIANANTS_D,65-70 dB,0.00%
+4,Les Corts,VIANANTS_D,70-75 dB,0.00%
+4,Les Corts,VIANANTS_D,75-80 dB,0.00%
+4,Les Corts,VIANANTS_D,>=80 dB,0.00%
+5,Sarrià-Sant Gervasi,VIANANTS_D,<40 dB,93.67%
+5,Sarrià-Sant Gervasi,VIANANTS_D,40-45 dB,3.40%
+5,Sarrià-Sant Gervasi,VIANANTS_D,45-50 dB,2.11%
+5,Sarrià-Sant Gervasi,VIANANTS_D,50-55 dB,0.68%
+5,Sarrià-Sant Gervasi,VIANANTS_D,55-60 dB,0.14%
+5,Sarrià-Sant Gervasi,VIANANTS_D,60-65 dB,0.00%
+5,Sarrià-Sant Gervasi,VIANANTS_D,65-70 dB,0.00%
+5,Sarrià-Sant Gervasi,VIANANTS_D,70-75 dB,0.00%
+5,Sarrià-Sant Gervasi,VIANANTS_D,75-80 dB,0.00%
+5,Sarrià-Sant Gervasi,VIANANTS_D,>=80 dB,0.00%
+6,Gràcia,VIANANTS_D,<40 dB,85.99%
+6,Gràcia,VIANANTS_D,40-45 dB,3.31%
+6,Gràcia,VIANANTS_D,45-50 dB,5.01%
+6,Gràcia,VIANANTS_D,50-55 dB,4.52%
+6,Gràcia,VIANANTS_D,55-60 dB,1.17%
+6,Gràcia,VIANANTS_D,60-65 dB,0.00%
+6,Gràcia,VIANANTS_D,65-70 dB,0.00%
+6,Gràcia,VIANANTS_D,70-75 dB,0.00%
+6,Gràcia,VIANANTS_D,75-80 dB,0.00%
+6,Gràcia,VIANANTS_D,>=80 dB,0.00%
+7,Horta-Guinardó,VIANANTS_D,<40 dB,95.53%
+7,Horta-Guinardó,VIANANTS_D,40-45 dB,2.66%
+7,Horta-Guinardó,VIANANTS_D,45-50 dB,1.56%
+7,Horta-Guinardó,VIANANTS_D,50-55 dB,0.25%
+7,Horta-Guinardó,VIANANTS_D,55-60 dB,0.00%
+7,Horta-Guinardó,VIANANTS_D,60-65 dB,0.00%
+7,Horta-Guinardó,VIANANTS_D,65-70 dB,0.00%
+7,Horta-Guinardó,VIANANTS_D,70-75 dB,0.00%
+7,Horta-Guinardó,VIANANTS_D,75-80 dB,0.00%
+7,Horta-Guinardó,VIANANTS_D,>=80 dB,0.00%
+8,Nou Barris,VIANANTS_D,<40 dB,94.24%
+8,Nou Barris,VIANANTS_D,40-45 dB,2.50%
+8,Nou Barris,VIANANTS_D,45-50 dB,2.63%
+8,Nou Barris,VIANANTS_D,50-55 dB,0.62%
+8,Nou Barris,VIANANTS_D,55-60 dB,0.01%
+8,Nou Barris,VIANANTS_D,60-65 dB,0.00%
+8,Nou Barris,VIANANTS_D,65-70 dB,0.00%
+8,Nou Barris,VIANANTS_D,70-75 dB,0.00%
+8,Nou Barris,VIANANTS_D,75-80 dB,0.00%
+8,Nou Barris,VIANANTS_D,>=80 dB,0.00%
+9,Sant Andreu,VIANANTS_D,<40 dB,89.50%
+9,Sant Andreu,VIANANTS_D,40-45 dB,3.38%
+9,Sant Andreu,VIANANTS_D,45-50 dB,4.72%
+9,Sant Andreu,VIANANTS_D,50-55 dB,2.40%
+9,Sant Andreu,VIANANTS_D,55-60 dB,0.00%
+9,Sant Andreu,VIANANTS_D,60-65 dB,0.00%
+9,Sant Andreu,VIANANTS_D,65-70 dB,0.00%
+9,Sant Andreu,VIANANTS_D,70-75 dB,0.00%
+9,Sant Andreu,VIANANTS_D,75-80 dB,0.00%
+9,Sant Andreu,VIANANTS_D,>=80 dB,0.00%
+10,Sant Martí,VIANANTS_D,<40 dB,93.23%
+10,Sant Martí,VIANANTS_D,40-45 dB,3.11%
+10,Sant Martí,VIANANTS_D,45-50 dB,2.01%
+10,Sant Martí,VIANANTS_D,50-55 dB,1.42%
+10,Sant Martí,VIANANTS_D,55-60 dB,0.23%
+10,Sant Martí,VIANANTS_D,60-65 dB,0.00%
+10,Sant Martí,VIANANTS_D,65-70 dB,0.00%
+10,Sant Martí,VIANANTS_D,70-75 dB,0.00%
+10,Sant Martí,VIANANTS_D,75-80 dB,0.00%
+10,Sant Martí,VIANANTS_D,>=80 dB,0.00%
+1,Ciutat Vella,VIANANTS_E,<40 dB,55.31%
+1,Ciutat Vella,VIANANTS_E,40-45 dB,14.80%
+1,Ciutat Vella,VIANANTS_E,45-50 dB,12.43%
+1,Ciutat Vella,VIANANTS_E,50-55 dB,10.01%
+1,Ciutat Vella,VIANANTS_E,55-60 dB,6.48%
+1,Ciutat Vella,VIANANTS_E,60-65 dB,0.97%
+1,Ciutat Vella,VIANANTS_E,65-70 dB,0.00%
+1,Ciutat Vella,VIANANTS_E,70-75 dB,0.00%
+1,Ciutat Vella,VIANANTS_E,75-80 dB,0.00%
+1,Ciutat Vella,VIANANTS_E,>=80 dB,0.00%
+2,Eixample,VIANANTS_E,<40 dB,95.26%
+2,Eixample,VIANANTS_E,40-45 dB,1.87%
+2,Eixample,VIANANTS_E,45-50 dB,1.09%
+2,Eixample,VIANANTS_E,50-55 dB,0.91%
+2,Eixample,VIANANTS_E,55-60 dB,0.86%
+2,Eixample,VIANANTS_E,60-65 dB,0.01%
+2,Eixample,VIANANTS_E,65-70 dB,0.00%
+2,Eixample,VIANANTS_E,70-75 dB,0.00%
+2,Eixample,VIANANTS_E,75-80 dB,0.00%
+2,Eixample,VIANANTS_E,>=80 dB,0.00%
+3,Sants-Montjuïc,VIANANTS_E,<40 dB,92.56%
+3,Sants-Montjuïc,VIANANTS_E,40-45 dB,4.33%
+3,Sants-Montjuïc,VIANANTS_E,45-50 dB,2.16%
+3,Sants-Montjuïc,VIANANTS_E,50-55 dB,0.37%
+3,Sants-Montjuïc,VIANANTS_E,55-60 dB,0.58%
+3,Sants-Montjuïc,VIANANTS_E,60-65 dB,0.00%
+3,Sants-Montjuïc,VIANANTS_E,65-70 dB,0.00%
+3,Sants-Montjuïc,VIANANTS_E,70-75 dB,0.00%
+3,Sants-Montjuïc,VIANANTS_E,75-80 dB,0.00%
+3,Sants-Montjuïc,VIANANTS_E,>=80 dB,0.00%
+4,Les Corts,VIANANTS_E,<40 dB,96.56%
+4,Les Corts,VIANANTS_E,40-45 dB,2.43%
+4,Les Corts,VIANANTS_E,45-50 dB,0.98%
+4,Les Corts,VIANANTS_E,50-55 dB,0.03%
+4,Les Corts,VIANANTS_E,55-60 dB,0.00%
+4,Les Corts,VIANANTS_E,60-65 dB,0.00%
+4,Les Corts,VIANANTS_E,65-70 dB,0.00%
+4,Les Corts,VIANANTS_E,70-75 dB,0.00%
+4,Les Corts,VIANANTS_E,75-80 dB,0.00%
+4,Les Corts,VIANANTS_E,>=80 dB,0.00%
+5,Sarrià-Sant Gervasi,VIANANTS_E,<40 dB,94.77%
+5,Sarrià-Sant Gervasi,VIANANTS_E,40-45 dB,3.29%
+5,Sarrià-Sant Gervasi,VIANANTS_E,45-50 dB,1.55%
+5,Sarrià-Sant Gervasi,VIANANTS_E,50-55 dB,0.25%
+5,Sarrià-Sant Gervasi,VIANANTS_E,55-60 dB,0.05%
+5,Sarrià-Sant Gervasi,VIANANTS_E,60-65 dB,0.09%
+5,Sarrià-Sant Gervasi,VIANANTS_E,65-70 dB,0.00%
+5,Sarrià-Sant Gervasi,VIANANTS_E,70-75 dB,0.00%
+5,Sarrià-Sant Gervasi,VIANANTS_E,75-80 dB,0.00%
+5,Sarrià-Sant Gervasi,VIANANTS_E,>=80 dB,0.00%
+6,Gràcia,VIANANTS_E,<40 dB,86.95%
+6,Gràcia,VIANANTS_E,40-45 dB,4.26%
+6,Gràcia,VIANANTS_E,45-50 dB,4.54%
+6,Gràcia,VIANANTS_E,50-55 dB,3.49%
+6,Gràcia,VIANANTS_E,55-60 dB,0.62%
+6,Gràcia,VIANANTS_E,60-65 dB,0.14%
+6,Gràcia,VIANANTS_E,65-70 dB,0.00%
+6,Gràcia,VIANANTS_E,70-75 dB,0.00%
+6,Gràcia,VIANANTS_E,75-80 dB,0.00%
+6,Gràcia,VIANANTS_E,>=80 dB,0.00%
+7,Horta-Guinardó,VIANANTS_E,<40 dB,96.76%
+7,Horta-Guinardó,VIANANTS_E,40-45 dB,2.42%
+7,Horta-Guinardó,VIANANTS_E,45-50 dB,0.55%
+7,Horta-Guinardó,VIANANTS_E,50-55 dB,0.26%
+7,Horta-Guinardó,VIANANTS_E,55-60 dB,0.01%
+7,Horta-Guinardó,VIANANTS_E,60-65 dB,0.00%
+7,Horta-Guinardó,VIANANTS_E,65-70 dB,0.00%
+7,Horta-Guinardó,VIANANTS_E,70-75 dB,0.00%
+7,Horta-Guinardó,VIANANTS_E,75-80 dB,0.00%
+7,Horta-Guinardó,VIANANTS_E,>=80 dB,0.00%
+8,Nou Barris,VIANANTS_E,<40 dB,95.59%
+8,Nou Barris,VIANANTS_E,40-45 dB,2.61%
+8,Nou Barris,VIANANTS_E,45-50 dB,1.31%
+8,Nou Barris,VIANANTS_E,50-55 dB,0.49%
+8,Nou Barris,VIANANTS_E,55-60 dB,0.00%
+8,Nou Barris,VIANANTS_E,60-65 dB,0.00%
+8,Nou Barris,VIANANTS_E,65-70 dB,0.00%
+8,Nou Barris,VIANANTS_E,70-75 dB,0.00%
+8,Nou Barris,VIANANTS_E,75-80 dB,0.00%
+8,Nou Barris,VIANANTS_E,>=80 dB,0.00%
+9,Sant Andreu,VIANANTS_E,<40 dB,90.75%
+9,Sant Andreu,VIANANTS_E,40-45 dB,4.25%
+9,Sant Andreu,VIANANTS_E,45-50 dB,3.43%
+9,Sant Andreu,VIANANTS_E,50-55 dB,1.56%
+9,Sant Andreu,VIANANTS_E,55-60 dB,0.01%
+9,Sant Andreu,VIANANTS_E,60-65 dB,0.00%
+9,Sant Andreu,VIANANTS_E,65-70 dB,0.00%
+9,Sant Andreu,VIANANTS_E,70-75 dB,0.00%
+9,Sant Andreu,VIANANTS_E,75-80 dB,0.00%
+9,Sant Andreu,VIANANTS_E,>=80 dB,0.00%
+10,Sant Martí,VIANANTS_E,<40 dB,94.08%
+10,Sant Martí,VIANANTS_E,40-45 dB,3.07%
+10,Sant Martí,VIANANTS_E,45-50 dB,1.75%
+10,Sant Martí,VIANANTS_E,50-55 dB,0.54%
+10,Sant Martí,VIANANTS_E,55-60 dB,0.56%
+10,Sant Martí,VIANANTS_E,60-65 dB,0.00%
+10,Sant Martí,VIANANTS_E,65-70 dB,0.00%
+10,Sant Martí,VIANANTS_E,70-75 dB,0.00%
+10,Sant Martí,VIANANTS_E,75-80 dB,0.00%
+10,Sant Martí,VIANANTS_E,>=80 dB,0.00%
+1,Ciutat Vella,OCI_N,<40 dB,78.88%
+1,Ciutat Vella,OCI_N,40-45 dB,4.51%
+1,Ciutat Vella,OCI_N,45-50 dB,2.43%
+1,Ciutat Vella,OCI_N,50-55 dB,1.76%
+1,Ciutat Vella,OCI_N,55-60 dB,5.73%
+1,Ciutat Vella,OCI_N,60-65 dB,6.22%
+1,Ciutat Vella,OCI_N,65-70 dB,0.47%
+1,Ciutat Vella,OCI_N,70-75 dB,0.00%
+1,Ciutat Vella,OCI_N,75-80 dB,0.00%
+1,Ciutat Vella,OCI_N,>=80 dB,0.00%
+2,Eixample,OCI_N,<40 dB,93.64%
+2,Eixample,OCI_N,40-45 dB,1.38%
+2,Eixample,OCI_N,45-50 dB,0.90%
+2,Eixample,OCI_N,50-55 dB,0.58%
+2,Eixample,OCI_N,55-60 dB,1.32%
+2,Eixample,OCI_N,60-65 dB,2.16%
+2,Eixample,OCI_N,65-70 dB,0.02%
+2,Eixample,OCI_N,70-75 dB,0.00%
+2,Eixample,OCI_N,75-80 dB,0.00%
+2,Eixample,OCI_N,>=80 dB,0.00%
+3,Sants-Montjuïc,OCI_N,<40 dB,95.28%
+3,Sants-Montjuïc,OCI_N,40-45 dB,1.37%
+3,Sants-Montjuïc,OCI_N,45-50 dB,0.79%
+3,Sants-Montjuïc,OCI_N,50-55 dB,0.53%
+3,Sants-Montjuïc,OCI_N,55-60 dB,0.59%
+3,Sants-Montjuïc,OCI_N,60-65 dB,1.44%
+3,Sants-Montjuïc,OCI_N,65-70 dB,0.00%
+3,Sants-Montjuïc,OCI_N,70-75 dB,0.00%
+3,Sants-Montjuïc,OCI_N,75-80 dB,0.00%
+3,Sants-Montjuïc,OCI_N,>=80 dB,0.00%
+4,Les Corts,OCI_N,<40 dB,98.50%
+4,Les Corts,OCI_N,40-45 dB,0.43%
+4,Les Corts,OCI_N,45-50 dB,0.29%
+4,Les Corts,OCI_N,50-55 dB,0.78%
+4,Les Corts,OCI_N,55-60 dB,0.00%
+4,Les Corts,OCI_N,60-65 dB,0.00%
+4,Les Corts,OCI_N,65-70 dB,0.00%
+4,Les Corts,OCI_N,70-75 dB,0.00%
+4,Les Corts,OCI_N,75-80 dB,0.00%
+4,Les Corts,OCI_N,>=80 dB,0.00%
+5,Sarrià-Sant Gervasi,OCI_N,<40 dB,92.75%
+5,Sarrià-Sant Gervasi,OCI_N,40-45 dB,1.49%
+5,Sarrià-Sant Gervasi,OCI_N,45-50 dB,0.64%
+5,Sarrià-Sant Gervasi,OCI_N,50-55 dB,0.66%
+5,Sarrià-Sant Gervasi,OCI_N,55-60 dB,3.46%
+5,Sarrià-Sant Gervasi,OCI_N,60-65 dB,0.74%
+5,Sarrià-Sant Gervasi,OCI_N,65-70 dB,0.26%
+5,Sarrià-Sant Gervasi,OCI_N,70-75 dB,0.00%
+5,Sarrià-Sant Gervasi,OCI_N,75-80 dB,0.00%
+5,Sarrià-Sant Gervasi,OCI_N,>=80 dB,0.00%
+6,Gràcia,OCI_N,<40 dB,94.00%
+6,Gràcia,OCI_N,40-45 dB,1.47%
+6,Gràcia,OCI_N,45-50 dB,0.74%
+6,Gràcia,OCI_N,50-55 dB,0.53%
+6,Gràcia,OCI_N,55-60 dB,2.26%
+6,Gràcia,OCI_N,60-65 dB,0.84%
+6,Gràcia,OCI_N,65-70 dB,0.16%
+6,Gràcia,OCI_N,70-75 dB,0.00%
+6,Gràcia,OCI_N,75-80 dB,0.00%
+6,Gràcia,OCI_N,>=80 dB,0.00%
+7,Horta-Guinardó,OCI_N,<40 dB,98.90%
+7,Horta-Guinardó,OCI_N,40-45 dB,0.24%
+7,Horta-Guinardó,OCI_N,45-50 dB,0.18%
+7,Horta-Guinardó,OCI_N,50-55 dB,0.41%
+7,Horta-Guinardó,OCI_N,55-60 dB,0.27%
+7,Horta-Guinardó,OCI_N,60-65 dB,0.00%
+7,Horta-Guinardó,OCI_N,65-70 dB,0.00%
+7,Horta-Guinardó,OCI_N,70-75 dB,0.00%
+7,Horta-Guinardó,OCI_N,75-80 dB,0.00%
+7,Horta-Guinardó,OCI_N,>=80 dB,0.00%
+8,Nou Barris,OCI_N,<40 dB,98.68%
+8,Nou Barris,OCI_N,40-45 dB,0.49%
+8,Nou Barris,OCI_N,45-50 dB,0.34%
+8,Nou Barris,OCI_N,50-55 dB,0.49%
+8,Nou Barris,OCI_N,55-60 dB,0.00%
+8,Nou Barris,OCI_N,60-65 dB,0.00%
+8,Nou Barris,OCI_N,65-70 dB,0.00%
+8,Nou Barris,OCI_N,70-75 dB,0.00%
+8,Nou Barris,OCI_N,75-80 dB,0.00%
+8,Nou Barris,OCI_N,>=80 dB,0.00%
+9,Sant Andreu,OCI_N,<40 dB,97.17%
+9,Sant Andreu,OCI_N,40-45 dB,0.74%
+9,Sant Andreu,OCI_N,45-50 dB,0.65%
+9,Sant Andreu,OCI_N,50-55 dB,1.44%
+9,Sant Andreu,OCI_N,55-60 dB,0.00%
+9,Sant Andreu,OCI_N,60-65 dB,0.00%
+9,Sant Andreu,OCI_N,65-70 dB,0.00%
+9,Sant Andreu,OCI_N,70-75 dB,0.00%
+9,Sant Andreu,OCI_N,75-80 dB,0.00%
+9,Sant Andreu,OCI_N,>=80 dB,0.00%
+10,Sant Martí,OCI_N,<40 dB,97.80%
+10,Sant Martí,OCI_N,40-45 dB,0.65%
+10,Sant Martí,OCI_N,45-50 dB,0.35%
+10,Sant Martí,OCI_N,50-55 dB,0.55%
+10,Sant Martí,OCI_N,55-60 dB,0.48%
+10,Sant Martí,OCI_N,60-65 dB,0.17%
+10,Sant Martí,OCI_N,65-70 dB,0.00%
+10,Sant Martí,OCI_N,70-75 dB,0.00%
+10,Sant Martí,OCI_N,75-80 dB,0.00%
+10,Sant Martí,OCI_N,>=80 dB,0.00%
+1,Ciutat Vella,PATIS_D,<40 dB,96.86%
+1,Ciutat Vella,PATIS_D,40-45 dB,0.00%
+1,Ciutat Vella,PATIS_D,45-50 dB,0.00%
+1,Ciutat Vella,PATIS_D,50-55 dB,1.17%
+1,Ciutat Vella,PATIS_D,55-60 dB,1.13%
+1,Ciutat Vella,PATIS_D,60-65 dB,0.84%
+1,Ciutat Vella,PATIS_D,65-70 dB,0.00%
+1,Ciutat Vella,PATIS_D,70-75 dB,0.00%
+1,Ciutat Vella,PATIS_D,75-80 dB,0.00%
+1,Ciutat Vella,PATIS_D,>=80 dB,0.00%
+2,Eixample,PATIS_D,<40 dB,90.62%
+2,Eixample,PATIS_D,40-45 dB,0.00%
+2,Eixample,PATIS_D,45-50 dB,0.00%
+2,Eixample,PATIS_D,50-55 dB,3.20%
+2,Eixample,PATIS_D,55-60 dB,4.12%
+2,Eixample,PATIS_D,60-65 dB,2.06%
+2,Eixample,PATIS_D,65-70 dB,0.00%
+2,Eixample,PATIS_D,70-75 dB,0.00%
+2,Eixample,PATIS_D,75-80 dB,0.00%
+2,Eixample,PATIS_D,>=80 dB,0.00%
+3,Sants-Montjuïc,PATIS_D,<40 dB,94.67%
+3,Sants-Montjuïc,PATIS_D,40-45 dB,0.00%
+3,Sants-Montjuïc,PATIS_D,45-50 dB,0.00%
+3,Sants-Montjuïc,PATIS_D,50-55 dB,3.25%
+3,Sants-Montjuïc,PATIS_D,55-60 dB,0.68%
+3,Sants-Montjuïc,PATIS_D,60-65 dB,1.40%
+3,Sants-Montjuïc,PATIS_D,65-70 dB,0.00%
+3,Sants-Montjuïc,PATIS_D,70-75 dB,0.00%
+3,Sants-Montjuïc,PATIS_D,75-80 dB,0.00%
+3,Sants-Montjuïc,PATIS_D,>=80 dB,0.00%
+4,Les Corts,PATIS_D,<40 dB,96.54%
+4,Les Corts,PATIS_D,40-45 dB,0.00%
+4,Les Corts,PATIS_D,45-50 dB,0.00%
+4,Les Corts,PATIS_D,50-55 dB,1.28%
+4,Les Corts,PATIS_D,55-60 dB,1.79%
+4,Les Corts,PATIS_D,60-65 dB,0.39%
+4,Les Corts,PATIS_D,65-70 dB,0.00%
+4,Les Corts,PATIS_D,70-75 dB,0.00%
+4,Les Corts,PATIS_D,75-80 dB,0.00%
+4,Les Corts,PATIS_D,>=80 dB,0.00%
+5,Sarrià-Sant Gervasi,PATIS_D,<40 dB,91.08%
+5,Sarrià-Sant Gervasi,PATIS_D,40-45 dB,0.00%
+5,Sarrià-Sant Gervasi,PATIS_D,45-50 dB,0.00%
+5,Sarrià-Sant Gervasi,PATIS_D,50-55 dB,5.50%
+5,Sarrià-Sant Gervasi,PATIS_D,55-60 dB,2.00%
+5,Sarrià-Sant Gervasi,PATIS_D,60-65 dB,1.42%
+5,Sarrià-Sant Gervasi,PATIS_D,65-70 dB,0.00%
+5,Sarrià-Sant Gervasi,PATIS_D,70-75 dB,0.00%
+5,Sarrià-Sant Gervasi,PATIS_D,75-80 dB,0.00%
+5,Sarrià-Sant Gervasi,PATIS_D,>=80 dB,0.00%
+6,Gràcia,PATIS_D,<40 dB,90.83%
+6,Gràcia,PATIS_D,40-45 dB,0.00%
+6,Gràcia,PATIS_D,45-50 dB,0.00%
+6,Gràcia,PATIS_D,50-55 dB,5.20%
+6,Gràcia,PATIS_D,55-60 dB,1.75%
+6,Gràcia,PATIS_D,60-65 dB,2.22%
+6,Gràcia,PATIS_D,65-70 dB,0.00%
+6,Gràcia,PATIS_D,70-75 dB,0.00%
+6,Gràcia,PATIS_D,75-80 dB,0.00%
+6,Gràcia,PATIS_D,>=80 dB,0.00%
+7,Horta-Guinardó,PATIS_D,<40 dB,95.58%
+7,Horta-Guinardó,PATIS_D,40-45 dB,0.00%
+7,Horta-Guinardó,PATIS_D,45-50 dB,0.00%
+7,Horta-Guinardó,PATIS_D,50-55 dB,2.98%
+7,Horta-Guinardó,PATIS_D,55-60 dB,1.00%
+7,Horta-Guinardó,PATIS_D,60-65 dB,0.44%
+7,Horta-Guinardó,PATIS_D,65-70 dB,0.00%
+7,Horta-Guinardó,PATIS_D,70-75 dB,0.00%
+7,Horta-Guinardó,PATIS_D,75-80 dB,0.00%
+7,Horta-Guinardó,PATIS_D,>=80 dB,0.00%
+8,Nou Barris,PATIS_D,<40 dB,95.99%
+8,Nou Barris,PATIS_D,40-45 dB,0.00%
+8,Nou Barris,PATIS_D,45-50 dB,0.00%
+8,Nou Barris,PATIS_D,50-55 dB,2.42%
+8,Nou Barris,PATIS_D,55-60 dB,1.04%
+8,Nou Barris,PATIS_D,60-65 dB,0.55%
+8,Nou Barris,PATIS_D,65-70 dB,0.00%
+8,Nou Barris,PATIS_D,70-75 dB,0.00%
+8,Nou Barris,PATIS_D,75-80 dB,0.00%
+8,Nou Barris,PATIS_D,>=80 dB,0.00%
+9,Sant Andreu,PATIS_D,<40 dB,90.66%
+9,Sant Andreu,PATIS_D,40-45 dB,0.00%
+9,Sant Andreu,PATIS_D,45-50 dB,0.00%
+9,Sant Andreu,PATIS_D,50-55 dB,5.33%
+9,Sant Andreu,PATIS_D,55-60 dB,2.35%
+9,Sant Andreu,PATIS_D,60-65 dB,1.66%
+9,Sant Andreu,PATIS_D,65-70 dB,0.00%
+9,Sant Andreu,PATIS_D,70-75 dB,0.00%
+9,Sant Andreu,PATIS_D,75-80 dB,0.00%
+9,Sant Andreu,PATIS_D,>=80 dB,0.00%
+10,Sant Martí,PATIS_D,<40 dB,91.39%
+10,Sant Martí,PATIS_D,40-45 dB,0.00%
+10,Sant Martí,PATIS_D,45-50 dB,0.00%
+10,Sant Martí,PATIS_D,50-55 dB,5.00%
+10,Sant Martí,PATIS_D,55-60 dB,3.21%
+10,Sant Martí,PATIS_D,60-65 dB,0.40%
+10,Sant Martí,PATIS_D,65-70 dB,0.00%
+10,Sant Martí,PATIS_D,70-75 dB,0.00%
+10,Sant Martí,PATIS_D,75-80 dB,0.00%
+10,Sant Martí,PATIS_D,>=80 dB,0.00%
+1,Ciutat Vella,PATIS_E,<40 dB,98.33%
+1,Ciutat Vella,PATIS_E,40-45 dB,0.00%
+1,Ciutat Vella,PATIS_E,45-50 dB,0.00%
+1,Ciutat Vella,PATIS_E,50-55 dB,0.00%
+1,Ciutat Vella,PATIS_E,55-60 dB,0.83%
+1,Ciutat Vella,PATIS_E,60-65 dB,0.84%
+1,Ciutat Vella,PATIS_E,65-70 dB,0.00%
+1,Ciutat Vella,PATIS_E,70-75 dB,0.00%
+1,Ciutat Vella,PATIS_E,75-80 dB,0.00%
+1,Ciutat Vella,PATIS_E,>=80 dB,0.00%
+2,Eixample,PATIS_E,<40 dB,94.73%
+2,Eixample,PATIS_E,40-45 dB,0.00%
+2,Eixample,PATIS_E,45-50 dB,0.00%
+2,Eixample,PATIS_E,50-55 dB,0.00%
+2,Eixample,PATIS_E,55-60 dB,3.21%
+2,Eixample,PATIS_E,60-65 dB,2.06%
+2,Eixample,PATIS_E,65-70 dB,0.00%
+2,Eixample,PATIS_E,70-75 dB,0.00%
+2,Eixample,PATIS_E,75-80 dB,0.00%
+2,Eixample,PATIS_E,>=80 dB,0.00%
+3,Sants-Montjuïc,PATIS_E,<40 dB,97.92%
+3,Sants-Montjuïc,PATIS_E,40-45 dB,0.00%
+3,Sants-Montjuïc,PATIS_E,45-50 dB,0.00%
+3,Sants-Montjuïc,PATIS_E,50-55 dB,0.00%
+3,Sants-Montjuïc,PATIS_E,55-60 dB,0.68%
+3,Sants-Montjuïc,PATIS_E,60-65 dB,1.40%
+3,Sants-Montjuïc,PATIS_E,65-70 dB,0.00%
+3,Sants-Montjuïc,PATIS_E,70-75 dB,0.00%
+3,Sants-Montjuïc,PATIS_E,75-80 dB,0.00%
+3,Sants-Montjuïc,PATIS_E,>=80 dB,0.00%
+4,Les Corts,PATIS_E,<40 dB,98.89%
+4,Les Corts,PATIS_E,40-45 dB,0.00%
+4,Les Corts,PATIS_E,45-50 dB,0.00%
+4,Les Corts,PATIS_E,50-55 dB,0.00%
+4,Les Corts,PATIS_E,55-60 dB,0.73%
+4,Les Corts,PATIS_E,60-65 dB,0.38%
+4,Les Corts,PATIS_E,65-70 dB,0.00%
+4,Les Corts,PATIS_E,70-75 dB,0.00%
+4,Les Corts,PATIS_E,75-80 dB,0.00%
+4,Les Corts,PATIS_E,>=80 dB,0.00%
+5,Sarrià-Sant Gervasi,PATIS_E,<40 dB,96.62%
+5,Sarrià-Sant Gervasi,PATIS_E,40-45 dB,0.00%
+5,Sarrià-Sant Gervasi,PATIS_E,45-50 dB,0.00%
+5,Sarrià-Sant Gervasi,PATIS_E,50-55 dB,0.00%
+5,Sarrià-Sant Gervasi,PATIS_E,55-60 dB,1.96%
+5,Sarrià-Sant Gervasi,PATIS_E,60-65 dB,1.42%
+5,Sarrià-Sant Gervasi,PATIS_E,65-70 dB,0.00%
+5,Sarrià-Sant Gervasi,PATIS_E,70-75 dB,0.00%
+5,Sarrià-Sant Gervasi,PATIS_E,75-80 dB,0.00%
+5,Sarrià-Sant Gervasi,PATIS_E,>=80 dB,0.00%
+6,Gràcia,PATIS_E,<40 dB,96.56%
+6,Gràcia,PATIS_E,40-45 dB,0.00%
+6,Gràcia,PATIS_E,45-50 dB,0.00%
+6,Gràcia,PATIS_E,50-55 dB,0.00%
+6,Gràcia,PATIS_E,55-60 dB,1.22%
+6,Gràcia,PATIS_E,60-65 dB,2.22%
+6,Gràcia,PATIS_E,65-70 dB,0.00%
+6,Gràcia,PATIS_E,70-75 dB,0.00%
+6,Gràcia,PATIS_E,75-80 dB,0.00%
+6,Gràcia,PATIS_E,>=80 dB,0.00%
+7,Horta-Guinardó,PATIS_E,<40 dB,98.56%
+7,Horta-Guinardó,PATIS_E,40-45 dB,0.00%
+7,Horta-Guinardó,PATIS_E,45-50 dB,0.00%
+7,Horta-Guinardó,PATIS_E,50-55 dB,0.00%
+7,Horta-Guinardó,PATIS_E,55-60 dB,1.00%
+7,Horta-Guinardó,PATIS_E,60-65 dB,0.44%
+7,Horta-Guinardó,PATIS_E,65-70 dB,0.00%
+7,Horta-Guinardó,PATIS_E,70-75 dB,0.00%
+7,Horta-Guinardó,PATIS_E,75-80 dB,0.00%
+7,Horta-Guinardó,PATIS_E,>=80 dB,0.00%
+8,Nou Barris,PATIS_E,<40 dB,98.51%
+8,Nou Barris,PATIS_E,40-45 dB,0.00%
+8,Nou Barris,PATIS_E,45-50 dB,0.00%
+8,Nou Barris,PATIS_E,50-55 dB,0.00%
+8,Nou Barris,PATIS_E,55-60 dB,0.94%
+8,Nou Barris,PATIS_E,60-65 dB,0.55%
+8,Nou Barris,PATIS_E,65-70 dB,0.00%
+8,Nou Barris,PATIS_E,70-75 dB,0.00%
+8,Nou Barris,PATIS_E,75-80 dB,0.00%
+8,Nou Barris,PATIS_E,>=80 dB,0.00%
+9,Sant Andreu,PATIS_E,<40 dB,96.05%
+9,Sant Andreu,PATIS_E,40-45 dB,0.00%
+9,Sant Andreu,PATIS_E,45-50 dB,0.00%
+9,Sant Andreu,PATIS_E,50-55 dB,0.00%
+9,Sant Andreu,PATIS_E,55-60 dB,2.29%
+9,Sant Andreu,PATIS_E,60-65 dB,1.66%
+9,Sant Andreu,PATIS_E,65-70 dB,0.00%
+9,Sant Andreu,PATIS_E,70-75 dB,0.00%
+9,Sant Andreu,PATIS_E,75-80 dB,0.00%
+9,Sant Andreu,PATIS_E,>=80 dB,0.00%
+10,Sant Martí,PATIS_E,<40 dB,96.39%
+10,Sant Martí,PATIS_E,40-45 dB,0.00%
+10,Sant Martí,PATIS_E,45-50 dB,0.00%
+10,Sant Martí,PATIS_E,50-55 dB,0.00%
+10,Sant Martí,PATIS_E,55-60 dB,3.21%
+10,Sant Martí,PATIS_E,60-65 dB,0.40%
+10,Sant Martí,PATIS_E,65-70 dB,0.00%
+10,Sant Martí,PATIS_E,70-75 dB,0.00%
+10,Sant Martí,PATIS_E,75-80 dB,0.00%
+10,Sant Martí,PATIS_E,>=80 dB,0.00%
+1,Ciutat Vella,PARCS_D,<40 dB,99.96%
+1,Ciutat Vella,PARCS_D,40-45 dB,0.04%
+1,Ciutat Vella,PARCS_D,45-50 dB,0.00%
+1,Ciutat Vella,PARCS_D,50-55 dB,0.00%
+1,Ciutat Vella,PARCS_D,55-60 dB,0.00%
+1,Ciutat Vella,PARCS_D,60-65 dB,0.00%
+1,Ciutat Vella,PARCS_D,65-70 dB,0.00%
+1,Ciutat Vella,PARCS_D,70-75 dB,0.00%
+1,Ciutat Vella,PARCS_D,75-80 dB,0.00%
+1,Ciutat Vella,PARCS_D,>=80 dB,0.00%
+2,Eixample,PARCS_D,<40 dB,99.86%
+2,Eixample,PARCS_D,40-45 dB,0.12%
+2,Eixample,PARCS_D,45-50 dB,0.02%
+2,Eixample,PARCS_D,50-55 dB,0.00%
+2,Eixample,PARCS_D,55-60 dB,0.00%
+2,Eixample,PARCS_D,60-65 dB,0.00%
+2,Eixample,PARCS_D,65-70 dB,0.00%
+2,Eixample,PARCS_D,70-75 dB,0.00%
+2,Eixample,PARCS_D,75-80 dB,0.00%
+2,Eixample,PARCS_D,>=80 dB,0.00%
+3,Sants-Montjuïc,PARCS_D,<40 dB,99.70%
+3,Sants-Montjuïc,PARCS_D,40-45 dB,0.19%
+3,Sants-Montjuïc,PARCS_D,45-50 dB,0.11%
+3,Sants-Montjuïc,PARCS_D,50-55 dB,0.00%
+3,Sants-Montjuïc,PARCS_D,55-60 dB,0.00%
+3,Sants-Montjuïc,PARCS_D,60-65 dB,0.00%
+3,Sants-Montjuïc,PARCS_D,65-70 dB,0.00%
+3,Sants-Montjuïc,PARCS_D,70-75 dB,0.00%
+3,Sants-Montjuïc,PARCS_D,75-80 dB,0.00%
+3,Sants-Montjuïc,PARCS_D,>=80 dB,0.00%
+4,Les Corts,PARCS_D,<40 dB,99.82%
+4,Les Corts,PARCS_D,40-45 dB,0.18%
+4,Les Corts,PARCS_D,45-50 dB,0.00%
+4,Les Corts,PARCS_D,50-55 dB,0.00%
+4,Les Corts,PARCS_D,55-60 dB,0.00%
+4,Les Corts,PARCS_D,60-65 dB,0.00%
+4,Les Corts,PARCS_D,65-70 dB,0.00%
+4,Les Corts,PARCS_D,70-75 dB,0.00%
+4,Les Corts,PARCS_D,75-80 dB,0.00%
+4,Les Corts,PARCS_D,>=80 dB,0.00%
+5,Sarrià-Sant Gervasi,PARCS_D,<40 dB,99.81%
+5,Sarrià-Sant Gervasi,PARCS_D,40-45 dB,0.19%
+5,Sarrià-Sant Gervasi,PARCS_D,45-50 dB,0.00%
+5,Sarrià-Sant Gervasi,PARCS_D,50-55 dB,0.00%
+5,Sarrià-Sant Gervasi,PARCS_D,55-60 dB,0.00%
+5,Sarrià-Sant Gervasi,PARCS_D,60-65 dB,0.00%
+5,Sarrià-Sant Gervasi,PARCS_D,65-70 dB,0.00%
+5,Sarrià-Sant Gervasi,PARCS_D,70-75 dB,0.00%
+5,Sarrià-Sant Gervasi,PARCS_D,75-80 dB,0.00%
+5,Sarrià-Sant Gervasi,PARCS_D,>=80 dB,0.00%
+6,Gràcia,PARCS_D,<40 dB,99.83%
+6,Gràcia,PARCS_D,40-45 dB,0.13%
+6,Gràcia,PARCS_D,45-50 dB,0.03%
+6,Gràcia,PARCS_D,50-55 dB,0.01%
+6,Gràcia,PARCS_D,55-60 dB,0.00%
+6,Gràcia,PARCS_D,60-65 dB,0.00%
+6,Gràcia,PARCS_D,65-70 dB,0.00%
+6,Gràcia,PARCS_D,70-75 dB,0.00%
+6,Gràcia,PARCS_D,75-80 dB,0.00%
+6,Gràcia,PARCS_D,>=80 dB,0.00%
+7,Horta-Guinardó,PARCS_D,<40 dB,100.00%
+7,Horta-Guinardó,PARCS_D,40-45 dB,0.00%
+7,Horta-Guinardó,PARCS_D,45-50 dB,0.00%
+7,Horta-Guinardó,PARCS_D,50-55 dB,0.00%
+7,Horta-Guinardó,PARCS_D,55-60 dB,0.00%
+7,Horta-Guinardó,PARCS_D,60-65 dB,0.00%
+7,Horta-Guinardó,PARCS_D,65-70 dB,0.00%
+7,Horta-Guinardó,PARCS_D,70-75 dB,0.00%
+7,Horta-Guinardó,PARCS_D,75-80 dB,0.00%
+7,Horta-Guinardó,PARCS_D,>=80 dB,0.00%
+8,Nou Barris,PARCS_D,<40 dB,99.97%
+8,Nou Barris,PARCS_D,40-45 dB,0.03%
+8,Nou Barris,PARCS_D,45-50 dB,0.00%
+8,Nou Barris,PARCS_D,50-55 dB,0.00%
+8,Nou Barris,PARCS_D,55-60 dB,0.00%
+8,Nou Barris,PARCS_D,60-65 dB,0.00%
+8,Nou Barris,PARCS_D,65-70 dB,0.00%
+8,Nou Barris,PARCS_D,70-75 dB,0.00%
+8,Nou Barris,PARCS_D,75-80 dB,0.00%
+8,Nou Barris,PARCS_D,>=80 dB,0.00%
+9,Sant Andreu,PARCS_D,<40 dB,100.00%
+9,Sant Andreu,PARCS_D,40-45 dB,0.00%
+9,Sant Andreu,PARCS_D,45-50 dB,0.00%
+9,Sant Andreu,PARCS_D,50-55 dB,0.00%
+9,Sant Andreu,PARCS_D,55-60 dB,0.00%
+9,Sant Andreu,PARCS_D,60-65 dB,0.00%
+9,Sant Andreu,PARCS_D,65-70 dB,0.00%
+9,Sant Andreu,PARCS_D,70-75 dB,0.00%
+9,Sant Andreu,PARCS_D,75-80 dB,0.00%
+9,Sant Andreu,PARCS_D,>=80 dB,0.00%
+10,Sant Martí,PARCS_D,<40 dB,99.59%
+10,Sant Martí,PARCS_D,40-45 dB,0.29%
+10,Sant Martí,PARCS_D,45-50 dB,0.11%
+10,Sant Martí,PARCS_D,50-55 dB,0.01%
+10,Sant Martí,PARCS_D,55-60 dB,0.00%
+10,Sant Martí,PARCS_D,60-65 dB,0.00%
+10,Sant Martí,PARCS_D,65-70 dB,0.00%
+10,Sant Martí,PARCS_D,70-75 dB,0.00%
+10,Sant Martí,PARCS_D,75-80 dB,0.00%
+10,Sant Martí,PARCS_D,>=80 dB,0.00%
